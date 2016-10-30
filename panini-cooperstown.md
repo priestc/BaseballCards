@@ -1,7 +1,10 @@
 # 2012
 
-- [X] 1 ty cobb
-- [X] 2 walter johnson
+base | red | yellow | number | player
+------------------------------------
+[X] | [ ] | [ ] | 1 | ty cobb
+[X] | [ ] | [ ] | 2 | walter johnson
+
 - [X] 3 honus wagner
 - [X] 4 christy matthewson
 - [ ] 5
