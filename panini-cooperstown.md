@@ -3,150 +3,163 @@
 - [X] 1 ty cobb
 - [X] 2 walter johnson
 - [X] 3 honus wagner
-[X] 4 christy matthewson
-6 X lou gehrig
-7 X ban johnson
-8 x connie Mack
-10 X ozzie smith
-11 X buck ewing
-14 X nolan ryan
-16 X rod carew
-17 X eddie collins
-19 X molitor
-20 X george sisler
-21 X charles cominsky
-22 X rogers hornsby
-23 X larkin
-24 X george brett
-25 X fred clarke
-26 X ed delahanty
-27 X hugh duffy
-28 X king kelly
-30 X santo
-31 X heilmann
-32 X gary carter
-33 X tinker
-34 X evers
-35 X chance
-36 X grove
-37 X frisch
-38 X mccarthy
-39 X mike schmidt
-40 X mazeroski
-41 X mickey cochrane
-42 X eckersley
-43 X murray
-44 X Ryne Sandberg
-45 X fisk
-46 X hubbell
-47 X pennock
-48 X traynor
-49 X gehringer
-50 X mel ott
-51 X Jimmie foxx
-52 X paul waner
-53 X lloyd waner
-54 X bruce sutter
-55 X bill dickey
-56 X Alomar
-58 X ted williams
-59 X ashburn
-60 X Ray Schalk
-61 X perry
-62 X rabbit maranville
-63 X Sam Crawford
-64 X rice
-65 X zack wheat
-66 X wade boggs
-67 X Dave winfield
-68 X joe cronin
-69 X feller
-70 X Billy Hamilton
-71 X Hank Greenberg
-73 X huggins
-74 X appling
-75 X Paige
-76 X lemon
-77 X doerr
-78 X berra
-79 X early wynn
-80 X carl Yaz
-81 X f. robinson
-82 X LaSorda
-83 X grimes
-84 X Andre Dawson
-85 X snider
-87 X herzog
-88 X medwick
-89 X perez
-90 X boudreau
-91 X seaver
-92 X musial
-93 X sparky anderson
-94 X jim bunning
-95 X newhouser
-97 X Al Barlick
-98 X Kiner
-99 X mathews
-100 X kell
-101 X slaughter
-102 X kaline
-103 X mize
-104 X Bob Gibson
-105 X joss
-106 X yount
-107 X rollie fingers
-109 X blyleven
-110 X gwynn
-111 X f. robinson
-112 X w. alston
-114 X spahn
-115 X banks
-116 X earl weaver
-117 X steve carlton
-118 X Cepeda
-119 X al lopez
-120 X henderson
-121 X hooper
-122 X goose goslin
-123 X Nellie Fox
-124 X palmer
-125 X irvin
-126 X buck leonard
-127 X gossage
-128 X hack wilson
-129 X sam thompson
-130 X mccovey
-131 X ripken
-132 X ralph kiner
-133 X Arky Vaughan
-134 X marichal
-135 X B. robinson
-136 X aparicio
-137 X ferrell
-138 X Bench
-139 X killebrew
-140 X pee wee reese
-141 X wilhelm
-142 X brock
-143 X Catfish Hunter
-144 X red schoendienst
-145 X morgan
-146 X stargell
-147 X reggie Jackson
-148 X jenkins
-149 X Lazzeri
-150 X b. williams
+- [X] 4 christy matthewson
+- [ ] 5
+- [X] 6 lou gehrig
+- [X] 7 ban johnson
+- [x] 8 connie Mack
+- [ ] 9
+- [X] 10 ozzie smith
+- [X] 11 buck ewing
+- [ ] 12
+- [ ] 13
+- [X] 14 nolan ryan
+- [ ] 15
+- [X] 16 rod carew
+- [X] 17 eddie collins
+- [ ] 18
+- [X] 19 molitor
+- [X] 20 george sisler
+- [X] 21 charles cominsky
+- [X] 22 rogers hornsby
+- [X] 23 larkin
+- [X] 24 george brett
+- [X] 25 fred clarke
+- [X] 26 ed delahanty
+- [X] 27 hugh duffy
+- [X] 28 king kelly
+- [ ] 29
+- [X] 30 santo
+- [X] 31 heilmann
+- [X] 32 gary carter
+- [X] 33 tinker
+- [X] 34 evers
+- [X] 35 chance
+- [X] 36 grove
+- [X] 37 frisch
+- [X] 38 mccarthy
+- [X] 39 mike schmidt
+- [X] 40 mazeroski
+- [X] 41 mickey cochrane
+- [X] 42 eckersley
+- [X] 43 murray
+- [X] 44 Ryne Sandberg
+- [X] 45 fisk
+- [X] 46 hubbell
+- [X] 47 pennock
+- [X] 48 traynor
+- [X] 49 gehringer
+- [X] 50 mel ott
+- [X] 51 Jimmie foxx
+- [X] 52 paul waner
+- [X] 53 lloyd waner
+- [X] 54 bruce sutter
+- [X] 55 bill dickey
+- [X] 56 Alomar
+- [ ] 57
+- [X] 58 ted williams
+- [X] 59 ashburn
+- [X] 60 Ray Schalk
+- [X] 61 perry
+- [X] 62 rabbit maranville
+- [X] 63 Sam Crawford
+- [X] 64 rice
+- [X] 65 zack wheat
+- [X] 66 wade boggs
+- [X] 67 Dave winfield
+- [X] 68 joe cronin
+- [X] 69 feller
+- [X] 70 Billy Hamilton
+- [X] 71 Hank Greenberg
+- [ ] 72
+- [X] 73 huggins
+- [X] 74 appling
+- [X] 75 Paige
+- [X] 76 lemon
+- [X] 77 doerr
+- [X] 78 berra
+- [X] 79 early wynn
+- [X] 80 carl Yaz
+- [X] 81 f. robinson
+- [X] 82 LaSorda
+- [X] 83 grimes
+- [X] 84 Andre Dawson
+- [X] 85 snider
+- [ ] 86
+- [X] 87 herzog
+- [X] 88 medwick
+- [X] 89 perez
+- [X] 90 boudreau
+- [X] 91 seaver
+- [X] 92 musial
+- [X] 93 sparky anderson
+- [X] 94 jim bunning
+- [X] 95 newhouser
+- [ ] 96
+- [X] 97 Al Barlick
+- [X] 98 Kiner
+- [X] 99 mathews
+- [X] 100 kell
+- [X] 101 slaughter
+- [X] 102 kaline
+- [X] 103 mize
+- [X] 104 Bob Gibson
+- [X] 105 joss
+- [X] 106 yount
+- [X] 107 rollie fingers
+- [ ] 108
+- [X] 109 blyleven
+- [X] 110 gwynn
+- [X] 111 f. robinson
+- [X] 112 w. alston
+- [ ] 113
+- [X] 114 spahn
+- [X] 115 banks
+- [X] 116 earl weaver
+- [X] 117 steve carlton
+- [X] 118 Cepeda
+- [X] 119 al lopez
+- [X] 120 henderson
+- [X] 121 hooper
+- [X] 122 goose goslin
+- [X] 123 Nellie Fox
+- [X] 124 palmer
+- [X] 125 irvin
+- [X] 126 buck leonard
+- [X] 127 gossage
+- [X] 128 hack wilson
+- [X] 129 sam thompson
+- [X] 130 mccovey
+- [X] 131 ripken
+- [X] 132 ralph kiner
+- [X] 133 Arky Vaughan
+- [X] 134 marichal
+- [X] 135 B. robinson
+- [X] 136 aparicio
+- [X] 137 ferrell
+- [X] 138 Bench
+- [X] 139 killebrew
+- [X] 140 pee wee reese
+- [X] 141 wilhelm
+- [X] 142 brock
+- [X] 143 Catfish Hunter
+- [X] 144 red schoendienst
+- [X] 145 morgan
+- [X] 146 stargell
+- [X] 147 reggie Jackson
+- [X] 148 jenkins
+- [X] 149 Lazzeri
+- [X] 150 billy williams
 
 ## SP
 
-164 X nap lajoie
-168 X plank
+- [X] 164 nap lajoie
+- [X] 168 plank
 
 ## museum pieces
 
-1 X ty cobb
-19 X paul waner
+- [X] 1 ty cobb
+- [X] 19 paul waner
 
 ## field generals
 1 X bench
