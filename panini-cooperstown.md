@@ -1,8 +1,9 @@
-2012
-1 X ty cobb
-2 X walter johnson
-3 X honus wagner
-4 X christy matthewson
+# 2012
+
+- [X] 1 ty cobb
+- [X] 2 walter johnson
+- [X] 3 honus wagner
+[X] 4 christy matthewson
 6 X lou gehrig
 7 X ban johnson
 8 x connie Mack
@@ -137,42 +138,45 @@
 149 X Lazzeri
 150 X b. williams
 
-164 X nap lajoie (SP)
-168 X plank (SP)
+## SP
 
-museum pieces
+164 X nap lajoie
+168 X plank
+
+## museum pieces
+
 1 X ty cobb
 19 X paul waner
 
-field generals
+## field generals
 1 X bench
 10 X bill dickey
 
-high praise
+## high praise
 4 X berra
 6 X Brock
 11 X reggie jackson
 19 X Brooks Robinson
 
-credentials
+## credentials
 11 X frank robinson
 18 X larkin
 
-famous moments
+## famous moments
 11 X gwynn
 14 X ted williams
 
-wood
+## wood
 8 X joe dimaggio
 
-induction
+## induction
 10 X palmer
 11 X dimaggio
 18 X ashburn
 
-2013
-====
-1 X log gehrig red
+# 2013
+
+1 X lou gehrig red
 2 X cy young orange /325
 3 X tris speaker green
 7 X walter johnson
@@ -231,11 +235,11 @@ induction
 93 X fisk
 95 X hunter green
 
-numbers game
+## numbers game
 15 X ty cobb
 
-2014
-====
+# 2014
+
 2 X walter johnson green/red /50 x2
 3 X christy mathewson green/silver /75
 11 X log gehrig green/red /50
@@ -272,13 +276,13 @@ numbers game
 96 X blyleven red/red /50
 100 X thomas red/silver /75
 
-elite
+## elite
 6 X o. smith
 25 X miller huggins
 38 X tris speaker
 
 
-crusade
+## crusade
 21 X traynor red /75
 24 X ott orange die cut /25
 28 X dimaggio blue
@@ -287,10 +291,10 @@ crusade
 89 X sandberg blue
 97 X larkin blue
 
-dominators
+## dominators
 22 X mel ott
 
-diamond kings
+## diamond kings
 48 X banks
 52 X snider
 70 X lazzeri red /75
@@ -300,14 +304,14 @@ diamond kings
 94 X andre dawson blue /50
 96 X blyleven
 
-2015
-====
+# 2015
+
 47 X honus wagner red /35
 61 X leo Durocher
 87 X sam crawford blue /25
 93 X tony gwynn
 
-crown royal
+## crown royal
 2 X al simmons
 14 X doerr /75
 28 X snider /75
@@ -317,11 +321,11 @@ crown royal
 95 X perez
 95 X perez /75
 
-armed forces
+## armed forces
 1 X dimaggio
 
-induction
+## induction
 6 X glavine
 
-golf classic
+## golf classic
 7 X fingers
