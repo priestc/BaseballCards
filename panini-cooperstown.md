@@ -191,8 +191,8 @@ X | | | 39 | mike schmidt
 
 # 2013
 
-base | green | blue /499 | red /399 | orange /325 | yellow /299 | number | player
------|-------|-----------|----------|-------------|-------------|--------|-------
+base | green | blue | red | orange | yellow | number | player
+-----|-------|------|-----|--------|--------|--------|-------
  | | |X| | |1 | lou gehrig
  | | | |X| |2 | cy young
  |X| | | | |3 | tris speaker
