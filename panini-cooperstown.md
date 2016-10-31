@@ -2,46 +2,45 @@
 
 base | red | yellow | number | player
 ----|-----|--------|---------|-------
-[X] | [ ] | [ ] | 1 | ty cobb
-[X] | [ ] | [ ] | 2 | walter johnson
-
-- [X] 3 honus wagner
-- [X] 4 christy matthewson
-- [ ] 5
-- [X] 6 lou gehrig
-- [X] 7 ban johnson
-- [x] 8 connie Mack
-- [ ] 9
-- [X] 10 ozzie smith
-- [X] 11 buck ewing
-- [ ] 12
-- [ ] 13
-- [X] 14 nolan ryan
-- [ ] 15
-- [X] 16 rod carew
-- [X] 17 eddie collins
-- [ ] 18
-- [X] 19 molitor
-- [X] 20 george sisler
-- [X] 21 charles cominsky
-- [X] 22 rogers hornsby
-- [X] 23 larkin
-- [X] 24 george brett
-- [X] 25 fred clarke
-- [X] 26 ed delahanty
-- [X] 27 hugh duffy
-- [X] 28 king kelly
-- [ ] 29
-- [X] 30 santo
-- [X] 31 heilmann
-- [X] 32 gary carter
-- [X] 33 tinker
-- [X] 34 evers
-- [X] 35 chance
-- [X] 36 grove
-- [X] 37 frisch
-- [X] 38 mccarthy
-- [X] 39 mike schmidt
+X | | | 1 | ty cobb
+X | | | 2 | walter johnson
+X | | | 3 | honus wagner
+X | | | 4 | christy matthewson
+  | | | 5 |
+X | | | 6 | lou gehrig
+X | | | 7 | ban johnson
+X | | | 8 | connie Mack
+  | | | 9 |
+X | | | 10 | ozzie smith
+X | | | 11 | buck ewing
+  | | | 12 |
+  | | | 13 |
+X | | | 14 | nolan ryan
+  | | | 15 |
+X | | | 16 | rod carew
+X | | | 17 | eddie collins
+  | | | 18 |
+X | | | 19 | molitor
+X | | | 20 | george sisler
+X | | | 21 | charles cominsky
+X | | | 22 | rogers hornsby
+X | | | 23 | larkin
+X | | | 24 | george brett
+X | | | 25 | fred clarke
+X | | | 26 | ed delahanty
+X | | | 27 | hugh duffy
+X | | | 28 | king kelly
+X | | | 29 |
+X | | | 30 | santo
+X | | | 31 | heilmann
+X | | | 32 | gary carter
+X | | | 33 | tinker
+X | | | 34 | evers
+X | | | 35 | chance
+X | | | 36 | grove
+X | | | 37 | frisch
+X | | | 38 | mccarthy
+X | | | 39 | mike schmidt
 - [X] 40 mazeroski
 - [X] 41 mickey cochrane
 - [X] 42 eckersley
@@ -192,64 +191,53 @@ base | red | yellow | number | player
 
 # 2013
 
-1 X lou gehrig red
-2 X cy young orange /325
-3 X tris speaker green
-7 X walter johnson
-8 X tinker green
-9 X evers green
-10 X chance green
-11 X cap anson green
-13 X dan brouthers
-15 X frisch orange
-17 X paige
-17 X paige green
-17 X paige red
-17 X paige blue
-17 X paige orange /325
-17 X paige yellow /299
-18 X huggins
-22 X zack wheat green
-24 X goslin green
-27 X paul waner orange
-28 X buck leonard
-28 X buck leonard green
-32 X foxx
-33 X grimes yellow /299
-33 X grimes green
-36 X dickey green
-38 X cochrane green
-41 X hubbell
-41 X hubbell green
-42 X jackie robinson orange
-43 X doerr
-43 X doerr green
-45 X southworth green
-48 X rick ferrell green
-50 X appling green
-50 X appling blue /499
-51 X feller
-51 X feller green
-53 X boudreau green
-57 X Al Barlick orange /325
-60 X whitey ford
-61 X nellie fox green
-61 X nellie Fox orange /325
-64 X pee wee reese green
-67 X wilhelm green
-68 X berra yellow /299
-69 X red schoendienst green
-70 X bunning
-76 X mccovey green
-79 X mazeroski green
-81 X orlando Cepeda
-81 orlando cepeda green
-85 X joe morgan green
-86 X phil neikro red /399
-89 X marichal
-90 X carl Yaz green
-93 X fisk
-95 X hunter green
+base | green | blue /499 | red /399 | orange /325 | yellow /299 | number | player
+----|-----|--------|---------|-------|---|
+ | | |X| | |1 | lou gehrig
+ | | | |X| |2 | cy young
+ |X| | | | |3 | tris speaker
+X| | | | | |7 | walter johnson
+ |X| | | | |8 | tinker
+ |X| | | | |9 | evers
+ |X| | | | |10| chance
+ |X| | | | |11| cap anson
+X| | | | | |13| dan brouthers
+ | | | |X| |15| frisch
+X|X|X|X|X|X|17| paige
+X| | | | | |18| huggins
+ |X| | | | |22| zack wheat
+ |X| | | | |24| goslin
+ | | | |X| |27| paul waner
+X|X| | | | |28| buck leonard
+X| | | | | |32| foxx
+ |X| | | |X|33| grimes
+ |X| | | | |36| dickey
+ |X| | | | |38| cochrane
+X|X| | | | |41| hubbell
+ | | | |X| |42| jackie robinson
+X|X| | | | |43| doerr
+ |X| | | | |45| southworth
+ |X| | | | |48| rick ferrell
+ |X|X| | | |50| appling
+X|X| | | | |51| feller
+ | |X| | | |53| boudreau
+ | | | |X| |57| Al Barlick
+X| | | | | |60| whitey ford
+ |X| | |X| |61| nellie fox
+ |X| | | | |64| pee wee reese
+ |X| | | | |67| wilhelm
+ | | | | |X|68| berra
+ |X| | | | |69| red schoendienst
+X| | | | | |70| bunning
+ |X| | | | |76| mccovey
+ |X| | | | |79| mazeroski
+X|X| | | | |81| orlando Cepeda
+ |X| | | | |85| joe morgan
+ | | |X| | |86| phil neikro
+X| | | | | |89| marichal
+ |X| | | | |90| carl Yaz
+X| | | | | |93| fisk
+X|X| | | | |95| hunter
 
 ## numbers game
 15 X ty cobb
