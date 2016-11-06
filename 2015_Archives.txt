@@ -1,0 +1,90 @@
+1957 design
+===========
+
+14 X  wade biggs
+24    ripken
+30 X  fisk
+32 X  yount
+35 X  murray
+39 X  gossage
+49 X  stargell
+50 X  griffey
+53 X  alomar
+54    o. smith
+58 X  sutter
+62    roberts
+63 X  carew
+75 X  brett
+78 X  carter
+83 X sutton
+
+1976 design
+===========
+
+105   dimaggio
+107   mccovey
+115 X  larkin
+124   rizzuto
+125 X  ruth
+128   kiner
+133 X  eckersley
+134   snider
+150 X  koufax
+152    mathews
+153 X  thomas
+154 X  feller
+165 X cobb
+170 X  spahn
+177 X  henderson
+178 X boudreau
+179 X f. robinson
+181 X  killebrew
+184 X  kaline
+189 X  clemente
+197 X  lemon
+
+1983 design
+===========
+
+201 X  gwynn
+202 X bench
+207 X  jenkins
+209 X seaaver
+213   b. robinson
+214    cepeda
+217   gehrig
+218    bunning
+224 X molitor
+227 X  r. jackson
+237 X rice
+248   hunter
+252 X  aparicio
+253 X  ford
+264    morgan
+271 X brock
+275 X t. williams
+283 X schmidt
+284 X palmer
+285 X perez
+289 X mazeroski
+300   mays
+
+SP
+==
+
+301   Nolan Ryan SP
+303   Smoltz SP
+305   Dawson SP
+306   Sandberg SP
+311   wagner SP
+315   doby SP
+320   paige SP
+322   irvin SP
+323   newhouser SP
+324   scoendienst SP
+325   slaughter
+326   kell SP
+327   wynn SP
+328   wilhelm SP
+329   doerr SP
+330   j. robinson SP
