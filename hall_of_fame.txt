@@ -1,3 +1,24 @@
+1976 Topps
+
+435 X neikro
+355 X Carlton
+365 X Fisk
+520 X mccovey
+525 X B. Williams
+530 X Sutton
+
+
+1977 Topps
+
+355 X Brock
+390 X winfield
+430 X jenkins
+547 X McCovey
+615 X Neikro
+630 X Blyleven
+655 X Perez
+
+
 1979 topps
 
 1   carew LL
@@ -164,8 +185,8 @@
 1982 topps:
 1 - steve carlton
 5 - nolan ryan
-21 - cal ripken 
-30 X tom seaver 
+21 - cal ripken
+30 X tom seaver
 31 - tom seaver IA
 90 X nolan ryan
 95 - ozzie smith
@@ -551,4 +572,3 @@
 75 X o. smith
 116 X murray
 160 X gwynn
-
