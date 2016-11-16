@@ -246,9 +246,11 @@ X|X| | | | |95| hunter
 
 2 X walter johnson green/red /50 x2
 3 X christy mathewson green/silver /75
+10 X Eddie Collins blue/gold /5
 11 X log gehrig green/red /50
 12 X willie keeler blue/red /50
 13 X george sisler green/red /50
+15 X Evers blue/red /50
 19 X hubbell blue/red /50
 21 X traynor blue/silver /75
 24 X mel ott blue/blue /25
@@ -267,12 +269,14 @@ X|X| | | | |95| hunter
 50 X hack wilson red/red /50
 50 X hack wilson blue/silver /75
 50 X hack wilson blue/red /50
+50 X Hack Wilson green/silver /75
 57 X drysdale green/silver /75
 58 X rick ferrell red/red /50
 61 X slaughter red/red /50
 63 X mccovey red/red /50
 70 X lazzeri red/red /50
 74 X steve carlton blue/red /50
+75 X Durocher red/red /50
 80 X george brett red/red /50
 81 X cepeda red/green /10
 84 X fisk green/red /50
@@ -281,8 +285,11 @@ X|X| | | | |95| hunter
 100 X thomas red/silver /75
 
 ## elite
+1 X Bob Gibson gold /25
 6 X o. smith
+16 X Sisler
 25 X miller huggins
+26 X Nap Lajoie
 38 X tris speaker
 
 
@@ -290,6 +297,8 @@ X|X| | | | |95| hunter
 21 X traynor red /75
 24 X ott orange die cut /25
 28 X dimaggio blue
+29 X Zack Wheat gold die cut /10
+46 X Bottomly orange die cut /25
 70 X lazzeri red /75
 75 X leo durocher blue
 89 X sandberg blue
@@ -297,6 +306,7 @@ X|X| | | | |95| hunter
 
 ## dominators
 22 X mel ott
+33 X sandberg gold /25
 
 ## diamond kings
 48 X banks
@@ -309,7 +319,7 @@ X|X| | | | |95| hunter
 96 X blyleven
 
 # 2015
-
+16 X Sutter gold /5
 47 X honus wagner red /35
 61 X leo Durocher
 87 X sam crawford blue /25
@@ -327,9 +337,18 @@ X|X| | | | |95| hunter
 
 ## armed forces
 1 X dimaggio
+5 X Gehrenger
+9 X doby
+11 X Rizzuto
 
 ## induction
+3 X Blyleven
 6 X glavine
+13 X Doug Harvey
+24 X Sutton
 
 ## golf classic
 7 X fingers
+
+## etched in cooperstown
+34 X Bottomly
