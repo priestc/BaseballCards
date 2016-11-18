@@ -3,8 +3,8 @@
 base | red | yellow | number | player
 ----|-----|--------|---------|-------
 X | | | 1 | ty cobb
-X | | | 2 | walter johnson
-X | | | 3 | honus wagner
+X | |X| 2 | walter johnson
+X | |X| 3 | honus wagner
 X | | | 4 | christy matthewson
   | | | 5 |
 X | | | 6 | lou gehrig
@@ -40,7 +40,7 @@ X | | | 35 | chance
 X | | | 36 | grove
 X | | | 37 | frisch
 X | | | 38 | mccarthy
-X | | | 39 | mike schmidt
+X | |X| 39 | mike schmidt
 - [X] 40 mazeroski
 - [X] 41 mickey cochrane
 - [X] 42 eckersley
@@ -51,13 +51,13 @@ X | | | 39 | mike schmidt
 - [X] 47 pennock
 - [X] 48 traynor
 - [X] 49 gehringer
-- [X] 50 mel ott
+- [X] 50 mel ott (+gold)
 - [X] 51 Jimmie foxx
 - [X] 52 paul waner
 - [X] 53 lloyd waner
 - [X] 54 bruce sutter
 - [X] 55 bill dickey
-- [X] 56 Alomar
+- [X] 56 Alomar (+G)
 - [ ] 57
 - [X] 58 ted williams
 - [X] 59 ashburn
@@ -67,25 +67,25 @@ X | | | 39 | mike schmidt
 - [X] 63 Sam Crawford
 - [X] 64 rice
 - [X] 65 zack wheat
-- [X] 66 wade boggs
+- [X] 66 wade boggs (+G)
 - [X] 67 Dave winfield
 - [X] 68 joe cronin
 - [X] 69 feller
 - [X] 70 Billy Hamilton
 - [X] 71 Hank Greenberg
-- [ ] 72
+- [ ] 72 Jackie Robinson (+G)
 - [X] 73 huggins
 - [X] 74 appling
 - [X] 75 Paige
 - [X] 76 lemon
 - [X] 77 doerr
-- [X] 78 berra
+- [X] 78 berra (+G)
 - [X] 79 early wynn
-- [X] 80 carl Yaz
+- [X] 80 carl Yaz (+G)
 - [X] 81 f. robinson
 - [X] 82 LaSorda
 - [X] 83 grimes
-- [X] 84 Andre Dawson
+- [X] 84 Andre Dawson (+G)
 - [X] 85 snider
 - [ ] 86
 - [X] 87 herzog
@@ -111,7 +111,7 @@ X | | | 39 | mike schmidt
 - [X] 107 rollie fingers
 - [ ] 108
 - [X] 109 blyleven
-- [X] 110 gwynn
+- [X] 110 gwynn (+G)
 - [X] 111 f. robinson
 - [X] 112 w. alston
 - [ ] 113
@@ -143,20 +143,37 @@ X | | | 39 | mike schmidt
 - [X] 139 killebrew
 - [X] 140 pee wee reese
 - [X] 141 wilhelm
-- [X] 142 brock
+- [X] 142 brock (+G)
 - [X] 143 Catfish Hunter
 - [X] 144 red schoendienst
 - [X] 145 morgan
-- [X] 146 stargell
+- [X] 146 stargell (+G)
 - [X] 147 reggie Jackson
 - [X] 148 jenkins
 - [X] 149 Lazzeri
 - [X] 150 billy williams
 
 ## SP
-
-- [X] 164 nap lajoie
-- [X] 168 plank
+- [ ] [ ] 151 Lou Gehrig
+- [ ] [ ] 152 Tris Speaker
+- [ ] [ ] 153 Christy Mathewson
+- [X] [ ] 154 Home Run Baker
+- [ ] [G] 155 Dizzy Dean
+- [ ] [G] 156 Al Simmons
+- [ ] [ ] 157 Cy Young
+- [X] [G] 158 Jim Bottomly
+- [ ] [ ] 159 Honus Wagner
+- [ ] [ ] 160 Walter Johnson
+- [ ] [G] 161 Mel ott
+- [ ] [G] 162 Jesse Burkett
+- [ ] [G] 163 Cap Anson
+- [X] [ ] 164 nap lajoie
+- [X] [G] 165 Edd Roush
+- [ ] [ ] 166 Rogers Hornsby
+- [ ] [ ] 167 Hank Greenberg
+- [X] [G] 168 plank
+- [ ] [ ] 169 Jimmie Foxx
+- [ ] [ ] 170 Oscar Charleston
 
 ## museum pieces
 
@@ -188,6 +205,14 @@ X | | | 39 | mike schmidt
 10 X palmer
 11 X dimaggio
 18 X ashburn
+
+
+## Bronze History
+
+12 X Brown
+76 X Sisler
+
+
 
 # 2013
 
@@ -246,6 +271,7 @@ X|X| | | | |95| hunter
 
 2 X walter johnson green/red /50 x2
 3 X christy mathewson green/silver /75
+7 X Cy Young red/blue /25
 10 X Eddie Collins blue/gold /5
 11 X log gehrig green/red /50
 12 X willie keeler blue/red /50
@@ -263,20 +289,23 @@ X|X| | | | |95| hunter
 35 X casey stengal red/red /50
 36 X campanella green/red /50
 37 X musial red/silver /75
-38 X bancroft green/green /10s
-42 X josh gibson green/red /50
+38 X bancroft green/green /10
+42 X josh gibson green/red /50 x2
 46 X jim bottomley green/silver /75
 50 X hack wilson red/red /50
 50 X hack wilson blue/silver /75
 50 X hack wilson blue/red /50
+50 X hack wilson blue/blue /25
 50 X Hack Wilson green/silver /75
 57 X drysdale green/silver /75
 58 X rick ferrell red/red /50
+60 X PeeWee Reese red/silver /75
 61 X slaughter red/red /50
 63 X mccovey red/red /50
 70 X lazzeri red/red /50
 74 X steve carlton blue/red /50
 75 X Durocher red/red /50
+75 X Durocher blue/green /10
 80 X george brett red/red /50
 81 X cepeda red/green /10
 84 X fisk green/red /50
@@ -287,6 +316,7 @@ X|X| | | | |95| hunter
 ## elite
 1 X Bob Gibson gold /25
 6 X o. smith
+8 X Whitey Ford
 16 X Sisler
 25 X miller huggins
 26 X Nap Lajoie
@@ -300,22 +330,26 @@ X|X| | | | |95| hunter
 29 X Zack Wheat gold die cut /10
 46 X Bottomly orange die cut /25
 70 X lazzeri red /75
+73 X R. Jackson blue
 75 X leo durocher blue
 89 X sandberg blue
 97 X larkin blue
+98 X Glavine orange die cut /25
 
 ## dominators
+8 X Eddie Collins
 22 X mel ott
 33 X sandberg gold /25
 
 ## diamond kings
+27 X Terry
 48 X banks
 52 X snider
 70 X lazzeri red /75
 72 X seaver
 79 X larry doby
 85 X o. smith
-94 X andre dawson blue /50
+94 X andre dawson blue /50 + red /75
 96 X blyleven
 
 # 2015
