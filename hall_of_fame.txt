@@ -273,7 +273,7 @@
 150 - sutter
 151 - sutter SV
 163 - ripken
-180 - henderson
+180 X henderson
 200 X carew
 201 X carew SV
 230 - jenkins
@@ -286,7 +286,7 @@
 301 - schmidt SV
 306 X lasorda
 350 X yount
-360 - ryan
+360 X ryan
 361 - ryan SV
 370 - gary carter
 386 X carew AS
