@@ -158,19 +158,19 @@ X | |X| 39 | mike schmidt
 - [ ] [ ] 152 Tris Speaker
 - [ ] [ ] 153 Christy Mathewson
 - [X] [ ] 154 Home Run Baker
-- [ ] [G] 155 Dizzy Dean
-- [ ] [G] 156 Al Simmons
+- [X] [G] 155 Dizzy Dean
+- [X] [G] 156 Al Simmons
 - [ ] [ ] 157 Cy Young
 - [X] [G] 158 Jim Bottomly
-- [ ] [ ] 159 Honus Wagner
+- [X] [ ] 159 Honus Wagner
 - [ ] [ ] 160 Walter Johnson
 - [ ] [G] 161 Mel ott
-- [ ] [G] 162 Jesse Burkett
-- [ ] [G] 163 Cap Anson
+- [X] [G] 162 Jesse Burkett
+- [X] [G] 163 Cap Anson
 - [X] [ ] 164 nap lajoie
 - [X] [G] 165 Edd Roush
 - [ ] [ ] 166 Rogers Hornsby
-- [ ] [ ] 167 Hank Greenberg
+- [X] [ ] 167 Hank Greenberg
 - [X] [G] 168 plank
 - [ ] [ ] 169 Jimmie Foxx
 - [ ] [ ] 170 Oscar Charleston
@@ -273,68 +273,75 @@ X|X| | | | |95| hunter
 3 X christy mathewson green/silver /75
 7 X Cy Young red/blue /25
 8 X Grover Alexander green/silver /75 (0.74)
-9 X Alexander Cartwright green/silver /75 (0.78)
+9 X Alexander Cartwright green/silver /75
 10 X Eddie Collins blue/gold /5
 11 X log gehrig green/red /50
 12 X willie keeler blue/red /50
 13 X george sisler green/red /50
 16 X Evers blue/red /50
-16 X Evers blue/silver /75
-16   Evers red/silver /75 (0.89)
+   X Evers blue/silver /75
+   X Evers blue/red /50 (0.81)
+     Evers red/silver /75 (0.89)
 19 X hubbell blue/red /50
 21 X traynor blue/silver /75
 22 X Mordecai Brown blue/silver /75
 24 X mel ott blue/blue /25
 25 X dizzy dean blue/blue /25
-25 X dizzy dean blue/silver /75
+   X dizzy dean blue/silver /75
 26 X rabbit moranville red/red /50
-26 X rabbit moranville blue/red /50
+   X rabbit moranville blue/red /50
+     rabbit marranville red/silver /75 (0.83)
 27 X bill terry blue/silver /75 (0.89)
-26   rabbit marranville red/silver /75 (0.83)
 29   Zack Wheat red/silver /75 (0.90)
+   X Zack Wheat red/red (0.81)
 30   Feller green/silver /75 (0.95)
 31 X jackie robinson blue/blue /25
 32   Roush green/silver /75 (0.95)
-32 X Roush blue/silver /75 (0.82)
-33   Grimes green/silver /75 (0.91)
+   X Roush blue/silver /75 (0.82)
+33 X Grimes green/silver /75 (0.83)
 34 X miller huggins red/silver /75
 35 X casey stengal red/red /50
 36 X campanella green/red /50
 37 X musial red/silver /75
 38   Bancroft green/silver /75 (0.89)
-38 X bancroft green/green /10
-38   bancroft red/silver /75 (0.82)
+   X bancroft green/green /10
+     bancroft red/silver /75 (0.82)
 39 X Rube Marquard blue/red /50
 41   Yogi Berra red/silver /75 (0.97)
 42 X josh gibson green/red /50 x2
+45 X Spahn green/silver (0.85)
 46 X jim bottomley green/silver /75
 50 X hack wilson red/red /50
-50 X hack wilson blue/silver /75
-50 X hack wilson blue/red /50
-50 X hack wilson blue/blue /25
-50 X Hack Wilson green/silver /75
+   X hack wilson blue/silver /75
+   X hack wilson blue/red /50
+   X hack wilson blue/blue /25
+   X Hack Wilson green/silver /75
 55   Marichal green/silver /75 (0.89)
 57 X drysdale green/silver /75
-57   drysdale red/silver /75 (0.82)
+     drysdale red/silver /75 (0.82)
 58 X rick ferrell red/red /50
 60 X PeeWee Reese red/silver /75
 61 X slaughter red/red /50
 63 X mccovey red/red /50
+   X McCovey green/red /50
 64 X Catfish Hunter blue/silver /75
+67 X Joe Morgan green/silver /75
 68   Jim Palmer green/silver /75 (0.74)
 70 X lazzeri red/red /50
-70   lazzeri blue/silver /75 (0.89)
+     lazzeri blue/silver /75 (0.89)
 71   Newhouser red/silver /75 (0.81)
 74 X steve carlton blue/red /50
 75 X Durocher red/red /50
-75 X Durocher blue/green /10
-76   Rizzuto red/silver /75 (0.81)
-79   Doby green/silver (0.83)
+   X Durocher blue/green /10
+76 X Rizzuto red/silver /75 (0.81)
+79 X Doby green/silver (0.74)
 80 X george brett red/red /50
 81 X cepeda red/green /10
 84 X fisk green/red /50
 85 X ozzie smith red/red /50
 86 X Murray red/silver /75 (0.74)
+87 X Paul Molitor green/silver /75 (0.68)
+94 X Dawson red/blue /25
 96 X blyleven red/red /50
 100 X thomas red/silver /75
 
@@ -354,6 +361,7 @@ X|X| | | | |95| hunter
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
 46 X Bottomly orange die cut /25
+63 X McCovey blue
 70 X lazzeri red /75
 73 X R. Jackson blue
 75 X leo durocher blue
@@ -363,6 +371,7 @@ X|X| | | | |95| hunter
 
 ## dominators
 8 X Eddie Collins
+10 X Frank Chance gold /25
 22 X mel ott
 33 X sandberg gold /25
 
