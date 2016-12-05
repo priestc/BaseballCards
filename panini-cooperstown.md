@@ -274,6 +274,7 @@ X|X| | | | |95| hunter
 3 X christy mathewson green/silver /75
 4   Honus Wagner
 5   nap lajoie
+6
 7 X Cy Young red/blue /25
     Cy Young blue/silver /75 (0.95)
 8 X Grover Alexander green/silver /75 (0.74)
@@ -337,7 +338,7 @@ X|X| | | | |95| hunter
    X hack wilson blue/blue /25
    X Hack Wilson green/silver /75
 51   Kaline
-52   Duke Snider blue/silver /75 (0.85)
+52 X Duke Snider blue/silver /75 (0.85)
 53   Bob Gibson
 54   Frank Robinson
 55   Marichal green/silver /75 (0.89)
@@ -358,9 +359,10 @@ X|X| | | | |95| hunter
 68   Jim Palmer green/silver /75 (0.74)
 69   Rod Carew
 70 X lazzeri red/red /50
-     lazzeri blue/silver /75 (0.79)
+   X lazzeri blue/silver /75 (0.79)
 71   Newhouser red/silver /75 (0.81)
 72   seaver
+73
 74 X steve carlton blue/red /50
      steve carlton blue/silver /75 (0.93)
 75 X Durocher red/red /50
@@ -373,6 +375,7 @@ X|X| | | | |95| hunter
 81 X cepeda red/green /10
      cepeda blue/silver /75 (0.99)
 82   Nolan Ryan
+83
 84 X fisk green/red /50
 85 X ozzie smith red/red /50
 86 X Murray red/silver /75 (0.74)
