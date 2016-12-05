@@ -269,29 +269,42 @@ X|X| | | | |95| hunter
 
 # 2014
 
+1   Ty Cobb
 2 X walter johnson green/red /50 x2
 3 X christy mathewson green/silver /75
+4   Honus Wagner
+5   nap lajoie
 7 X Cy Young red/blue /25
+    Cy Young blue/silver /75 (0.95)
 8 X Grover Alexander green/silver /75 (0.74)
 9 X Alexander Cartwright green/silver /75
 10 X Eddie Collins blue/gold /5
-11 X log gehrig green/red /50
+11 X lou gehrig green/red /50
 12 X willie keeler blue/red /50
 13 X george sisler green/red /50
+14   rogers hornsby
+15   frank chance
 16 X Evers blue/red /50
    X Evers blue/silver /75
    X Evers blue/red /50 (0.81)
      Evers red/silver /75 (0.89)
+17   frankie frisch
+18   lefty grove
 19 X hubbell blue/red /50
+     hubbell blue/silver /75 (0.88)
+20   Pennock
 21 X traynor blue/silver /75
 22 X Mordecai Brown blue/silver /75
+23   Foxx
 24 X mel ott blue/blue /25
 25 X dizzy dean blue/blue /25
    X dizzy dean blue/silver /75
-26 X rabbit moranville red/red /50
-   X rabbit moranville blue/red /50
-     rabbit marranville red/silver /75 (0.83)
+26 X rabbit maranville red/red /50
+   X rabbit maranville blue/red /50
+     rabbit maranville red/silver /75 (0.83)
+     rabbit maranville blue/silver /75 (0.97)
 27 X bill terry blue/silver /75 (0.89)
+28   Dimaggio
 29   Zack Wheat red/silver /75 (0.90)
    X Zack Wheat red/red (0.81)
 30   Feller green/silver /75 (0.95)
@@ -302,47 +315,80 @@ X|X| | | | |95| hunter
 34 X miller huggins red/silver /75
 35 X casey stengal red/red /50
 36 X campanella green/red /50
+     campanella blue/silver /75 (0.85)
 37 X musial red/silver /75
 38   Bancroft green/silver /75 (0.89)
    X bancroft green/green /10
      bancroft red/silver /75 (0.82)
 39 X Rube Marquard blue/red /50
+40   Paige
 41   Yogi Berra red/silver /75 (0.97)
 42 X josh gibson green/red /50 x2
+43 X Early Wynn blue/silver /75 (0.68)
+44   Clemente
 45 X Spahn green/silver (0.85)
 46 X jim bottomley green/silver /75
+47   Whitey Ford
+48   Ernie banks
+49   Eddie Mathews
 50 X hack wilson red/red /50
    X hack wilson blue/silver /75
    X hack wilson blue/red /50
    X hack wilson blue/blue /25
    X Hack Wilson green/silver /75
+51   Kaline
+52   Duke Snider blue/silver /75 (0.85)
+53   Bob Gibson
+54   Frank Robinson
 55   Marichal green/silver /75 (0.89)
+56   Brooks Robinson
 57 X drysdale green/silver /75
      drysdale red/silver /75 (0.82)
 58 X rick ferrell red/red /50
+59   Killebrew
 60 X PeeWee Reese red/silver /75
 61 X slaughter red/red /50
+62   Arky Vaughan
 63 X mccovey red/red /50
    X McCovey green/red /50
 64 X Catfish Hunter blue/silver /75
+65   johnny Bench
+66   Yaz
 67 X Joe Morgan green/silver /75
 68   Jim Palmer green/silver /75 (0.74)
+69   Rod Carew
 70 X lazzeri red/red /50
-     lazzeri blue/silver /75 (0.89)
+     lazzeri blue/silver /75 (0.79)
 71   Newhouser red/silver /75 (0.81)
+72   seaver
 74 X steve carlton blue/red /50
+     steve carlton blue/silver /75 (0.93)
 75 X Durocher red/red /50
    X Durocher blue/green /10
 76 X Rizzuto red/silver /75 (0.81)
+77   Ashburn
+78   Schmidt
 79 X Doby green/silver (0.74)
 80 X george brett red/red /50
 81 X cepeda red/green /10
+     cepeda blue/silver /75 (0.99)
+82   Nolan Ryan
 84 X fisk green/red /50
 85 X ozzie smith red/red /50
 86 X Murray red/silver /75 (0.74)
 87 X Paul Molitor green/silver /75 (0.68)
+88   Boggs
+89   Sandberg
+90   Gwynn
+91   Ripken
+92   Henderson
+93   Jim Rice
 94 X Dawson red/blue /25
+95   Alomar
 96 X blyleven red/red /50
+97   Larkin
+98   Glavine
+99   Maddux
 100 X thomas red/silver /75
 
 ## elite
