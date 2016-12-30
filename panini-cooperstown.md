@@ -30,19 +30,19 @@ X | | | 25 | fred clarke
 X | | | 26 | ed delahanty
 X | | | 27 | hugh duffy
 X | | | 28 | king kelly
-X | | | 29 | Marquard
+X | | | 29 | Marquard +red  
 X | | | 30 | santo
 X | | | 31 | heilmann
 X | | | 32 | gary carter
-X | | | 33 | tinker
+X | | | 33 | tinker +red
 X | | | 34 | evers
 X | | | 35 | chance
 X | | | 36 | grove
 X | | | 37 | frisch
-X | | | 38 | mccarthy
+X | | | 38 | mccarthy +blue
 X | |X| 39 | mike schmidt
 - [X] 40 mazeroski
-- [X] 41 mickey cochrane
+- [X] 41 mickey cochrane +red
 - [X] 42 eckersley
 - [X] 43 murray
 - [X] 44 Ryne Sandberg
@@ -70,7 +70,7 @@ X | |X| 39 | mike schmidt
 - [X] 66 wade boggs (+G)
 - [X] 67 Dave winfield
 - [X] 68 joe cronin
-- [X] 69 feller
+- [X] 69 feller +red
 - [X] 70 Billy Hamilton
 - [X] 71 Hank Greenberg
 - [ ] 72 Jackie Robinson (+G)
@@ -90,7 +90,7 @@ X | |X| 39 | mike schmidt
 - [ ] 86 Whitey Ford
 - [X] 87 herzog
 - [X] 88 medwick
-- [X] 89 perez
+- [X] 89 perez +red
 - [X] 90 boudreau
 - [X] 91 seaver
 - [X] 92 musial
@@ -208,10 +208,29 @@ X | |X| 39 | mike schmidt
 
 
 ## Bronze History
-
+1 X grover alexander
+3 X Baker
+7 X Bender
 12 X Brown
+14 X Cartwright
+16 X Chandler
+19 X clarke
+20 X Clarkson
+25 X Connor
+26 X cooper
+32 X Flick
+34 X Frisch
+40 X heilmann
+48 X Kelley
+51 X Lajoie
+67 X Paige
+70 X posey
+75 X Schalk
 76 X Sisler
-
+79 X Stearns
+80 X thompson
+92 X Ward
+95 X Cummings
 
 
 # 2013
@@ -280,8 +299,10 @@ X|X| | | | |95| hunter
 8 X Grover Alexander green/silver /75 (0.74)
 9 X Alexander Cartwright green/silver /75
 10 X Eddie Collins blue/gold /5
+   X green/red /50
 11 X lou gehrig green/red /50
 12 X willie keeler blue/red /50
+   X green/silver /75
 13 X george sisler green/red /50
 14   rogers hornsby
 15   frank chance
@@ -310,6 +331,7 @@ X|X| | | | |95| hunter
    X Zack Wheat red/red (0.81)
 30   Feller green/silver /75 (0.95)
 31 X jackie robinson blue/blue /25
+   X blue/red /50
 32   Roush green/silver /75 (0.95)
    X Roush blue/silver /75 (0.82)
 33 X Grimes green/silver /75 (0.83)
@@ -356,15 +378,16 @@ X|X| | | | |95| hunter
 65   johnny Bench
 66   Yaz
 67 X Joe Morgan green/silver /75
-68   Jim Palmer green/silver /75 (0.74)
+68 X Jim Palmer green/silver /75 (0.74)
 69   Rod Carew
 70 X lazzeri red/red /50
    X lazzeri blue/silver /75 (0.79)
 71   Newhouser red/silver /75 (0.81)
-72   seaver
+72 X seaver blue/gold /5
 73
 74 X steve carlton blue/red /50
      steve carlton blue/silver /75 (0.93)
+   X green/silver /75
 75 X Durocher red/red /50
    X Durocher blue/green /10
 76 X Rizzuto red/silver /75 (0.81)
@@ -375,11 +398,13 @@ X|X| | | | |95| hunter
 81 X cepeda red/green /10
      cepeda blue/silver /75 (0.99)
 82   Nolan Ryan
-83
+83   yount
 84 X fisk green/red /50
 85 X ozzie smith red/red /50
+   X green/silver /75
 86 X Murray red/silver /75 (0.74)
 87 X Paul Molitor green/silver /75 (0.68)
+   X blue/silver /75
 88   Boggs
 89   Sandberg
 90   Gwynn
@@ -398,22 +423,28 @@ X|X| | | | |95| hunter
 1 X Bob Gibson gold /25
 6 X o. smith
 8 X Whitey Ford
+14 X Frisch
 16 X Sisler
 25 X miller huggins
 26 X Nap Lajoie
+27 X Nolan Ryan
 38 X tris speaker
 
 
 ## crusade
+6 X Speaker blue
 21 X traynor red /75
 24 X ott orange die cut /25
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
+42 X Josh Gibson blue
 46 X Bottomly orange die cut /25
 63 X McCovey blue
+69 X Carew /75
 70 X lazzeri red /75
 73 X R. Jackson blue
 75 X leo durocher blue
+82 X Nolan Ryan red /75
 89 X sandberg blue
 97 X larkin blue
 98 X Glavine orange die cut /25
@@ -421,12 +452,16 @@ X|X| | | | |95| hunter
 ## dominators
 8 X Eddie Collins
 10 X Frank Chance gold /25
+14 X Wagner
 22 X mel ott
 33 X sandberg gold /25
 
 ## diamond kings
 8 X Bottomley red /75
+11 X gehrig red /75
 27 X Terry
+33 X Grimes
+45 X Spahn
 48 X banks
 52 X snider
 70 X lazzeri red /75
@@ -434,7 +469,13 @@ X|X| | | | |95| hunter
 79 X larry doby
 85 X o. smith
 94 X andre dawson blue /50 + red /75
+95 X alomar
 96 X blyleven
+100 X thomas blue /50
+
+# gem cards
+63 X evers sapphire
+
 
 # 2015
 16 X Sutter gold /5

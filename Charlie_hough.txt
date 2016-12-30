@@ -1,9 +1,7 @@
-1972 O-Pee-Chee
 1973 O-Pee-Chee
 1974 O-Pee-Chee
 1975 Topps MINI #071
 1976 O-Pee-Chee
-1977 Kellog's 3-D Superstars #047
 1977 O-Pee-Chee
 1978 O-Pee-Chee
 1980 O-Pee-Chee
@@ -18,10 +16,8 @@
 1987 Topps STICKER #240
 1988 O-Pee-Chee
 1988 Panini BASEBALL STICKERS #197
-1989 O-Pee-Chee
 1989 Topps BASEBALL TALK
 1990 Topps BIG BASEBALL #242
-1991 O-Pee-Chee
 1992 Topps GOLD WINNER #191
 1993 Cardtoons
 1993 O-Pee-Chee
@@ -55,12 +51,3 @@ total non-dups: 199
 1985 Topps PSA 10 (pop 3)
 1986 Topps PSA 10 (pop 2)
 1987 Topps PSA 10 (pop 2)
-
-
-
-
-
-
-
-
-
