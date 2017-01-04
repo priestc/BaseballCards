@@ -313,7 +313,7 @@ X|X| | | | |95| hunter
 17   frankie frisch
 18   lefty grove
 19 X hubbell blue/red /50
-     hubbell blue/silver /75 (0.88)
+   X hubbell blue/silver /75 (0.88)
 20   Pennock
 21 X traynor blue/silver /75
 22 X Mordecai Brown blue/silver /75
@@ -323,7 +323,7 @@ X|X| | | | |95| hunter
    X dizzy dean blue/silver /75
 26 X rabbit maranville red/red /50
    X rabbit maranville blue/red /50
-     rabbit maranville red/silver /75 (0.83)
+   X rabbit maranville red/silver /75 (0.73)
      rabbit maranville blue/silver /75 (0.97)
 27 X bill terry blue/silver /75 (0.89)
 28   Dimaggio
@@ -345,11 +345,12 @@ X|X| | | | |95| hunter
      bancroft red/silver /75 (0.82)
 39 X Rube Marquard blue/red /50
 40   Paige
-41   Yogi Berra red/silver /75 (0.97)
+41 X Yogi Berra red/silver /75 (1.00)
 42 X josh gibson green/red /50 x2
 43 X Early Wynn blue/silver /75 (0.68)
 44   Clemente
 45 X Spahn green/silver (0.85)
+   X red/silver /75
 46 X jim bottomley green/silver /75
 47   Whitey Ford
 48   Ernie banks
@@ -423,13 +424,17 @@ X|X| | | | |95| hunter
 1 X Bob Gibson gold /25
 6 X o. smith
 8 X Whitey Ford
+10 X Ernie Banks
+11 X Joe Morgan
+12 X Frank Robinson
 14 X Frisch
 16 X Sisler
+19 X McCovey
 25 X miller huggins
 26 X Nap Lajoie
 27 X Nolan Ryan
 38 X tris speaker
-
+40 X Keeler
 
 ## crusade
 6 X Speaker blue
@@ -437,8 +442,12 @@ X|X| | | | |95| hunter
 24 X ott orange die cut /25
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
+   X purple /50 (0.85)
 42 X Josh Gibson blue
+43 X Wynn orange die cut /25
 46 X Bottomly orange die cut /25
+53 X Bob Gibson blue
+58 X Ferrell purple /50 (0.95)
 63 X McCovey blue
 69 X Carew /75
 70 X lazzeri red /75
@@ -454,6 +463,8 @@ X|X| | | | |95| hunter
 10 X Frank Chance gold /25
 14 X Wagner
 22 X mel ott
+24 X Huggins
+32 X Campanella
 33 X sandberg gold /25
 
 ## diamond kings
