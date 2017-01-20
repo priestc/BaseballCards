@@ -239,49 +239,85 @@ base | green | blue | red | orange | yellow | number | player
 -----|-------|------|-----|--------|--------|--------|-------
  | | |X| | |1 | lou gehrig
  | | | |X| |2 | cy young
- |X| | | | |3 | tris speaker
+X|X| | | | |3 | tris speaker
+X| | | | | |4 | Matthewson
+X| | | | | |6 | Hornsby
 X| | | | | |7 | walter johnson
  |X| | | | |8 | tinker
- |X| | | | |9 | evers
- |X| | | | |10| chance
+X|X| | | | |9 | evers
+X|X| | | | |10| chance
  |X| | | | |11| cap anson
 X| | | | | |13| dan brouthers
- | | | |X| |15| frisch
+X| | | |X| |15| frisch
+X| | | | | |16| Roush
 X|X|X|X|X|X|17| paige
 X| | | | | |18| huggins
- |X| | | | |22| zack wheat
- |X| | | | |24| goslin
+X| | | | | |19| Lajoie
+X| | | | | |20| Marquard
+X| | | | | |21| Lazzeri
+X|X| | | | |22| zack wheat
+X| | | | | |23| Hack Wilson
+X|X| | | | |24| goslin
+X| | | | | |25| Grove
  | | | |X| |27| paul waner
 X|X| | | | |28| buck leonard
+X| | | | | |29| Bottomley
+X| | | | | |30| Sisler
+X| | | | | |31| Ott
 X| | | | | |32| foxx
- |X| | | |X|33| grimes
- |X| | | | |36| dickey
+X|X| | | |X|33| grimes
+X| | | | | |35| Medwick
+X|X| | | | |36| dickey
  |X| | | | |38| cochrane
+X| | | | | |40| Terry
 X|X| | | | |41| hubbell
  | | | |X| |42| jackie robinson
 X|X| | | | |43| doerr
- |X| | | | |45| southworth
- |X| | | | |48| rick ferrell
+X|X| | | | |45| southworth
+X| | | | | |46| Gehringer
+X| | | | | |47| Al Lopez
+X|X| | | | |48| rick ferrell
  |X|X| | | |50| appling
 X|X| | | | |51| feller
+X| | | | | |52| Newhouser
  | |X| | | |53| boudreau
- | | | |X| |57| Al Barlick
+X| | | | | |55| Campanella
+X| | | |X| |57| Al Barlick
+X| | | | | |58| Snider
+X| | | | | |59| Rizzuto
 X| | | | | |60| whitey ford
- |X| | |X| |61| nellie fox
+X|X| | |X| |61| nellie fox
+X| | | | | |62| Stengel
+X| | | | | |63| Spahn
  |X| | | | |64| pee wee reese
- |X| | | | |67| wilhelm
+X|X| | | | |67| wilhelm
  | | | | |X|68| berra
  |X| | | | |69| red schoendienst
 X| | | | | |70| bunning
- |X| | | | |76| mccovey
+X| | | | | |71| F. Robinson
+X| | | | | |72| Roberts
+X| | | | | |73| Ashburn
+X| | | | | |74| Aparicio
+X| | | | | |75| Kaline
+X|X| | | | |76| mccovey
+X| | | | | |77| Carlton
+X| | | | | |78| B. Robinson
  |X| | | | |79| mazeroski
+X| | | | | |80| Bench
 X|X| | | | |81| orlando Cepeda
- |X| | | | |85| joe morgan
- | | |X| | |86| phil neikro
+X| | | | | |82| Carew
+X| | | | | |84| Gibson
+X|X| | | | |85| joe morgan
+X| | |X| | |86| phil neikro
+X| | | | | |87| Seaver
+X| | | | | |88| Sutter
 X| | | | | |89| marichal
  |X| | | | |90| carl Yaz
 X| | | | | |93| fisk
+X| | | | | |94| Palmer
 X|X| | | | |95| hunter
+X| | | | | |97| Yount
+X| | | | | |98| Winfield
 
 ## numbers game
 15 X ty cobb
@@ -332,6 +368,7 @@ X|X| | | | |95| hunter
 30   Feller green/silver /75 (0.95)
 31 X jackie robinson blue/blue /25
    X blue/red /50
+   X red/red /50
 32   Roush green/silver /75 (0.95)
    X Roush blue/silver /75 (0.82)
 33 X Grimes green/silver /75 (0.83)
@@ -376,10 +413,12 @@ X|X| | | | |95| hunter
 63 X mccovey red/red /50
    X McCovey green/red /50
 64 X Catfish Hunter blue/silver /75
+   X blue/red /50
 65   johnny Bench
 66   Yaz
 67 X Joe Morgan green/silver /75
 68 X Jim Palmer green/silver /75 (0.74)
+   X red/red /50
 69   Rod Carew
 70 X lazzeri red/red /50
    X lazzeri blue/silver /75 (0.79)
@@ -396,6 +435,7 @@ X|X| | | | |95| hunter
 78   Schmidt
 79 X Doby green/silver (0.74)
 80 X george brett red/red /50
+  X green/red /50
 81 X cepeda red/green /10
      cepeda blue/silver /75 (0.99)
 82   Nolan Ryan
