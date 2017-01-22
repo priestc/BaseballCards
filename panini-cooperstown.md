@@ -340,8 +340,8 @@ X| | | | | |98| Winfield
 12 X willie keeler blue/red /50
    X green/silver /75
 13 X george sisler green/red /50
-14   rogers hornsby
-15   frank chance
+14 X rogers hornsby red/red /50
+15 X frank chance green/silver /75
 16 X Evers blue/red /50
    X Evers blue/silver /75
    X Evers blue/red /50 (0.81)
@@ -385,6 +385,7 @@ X| | | | | |98| Winfield
 41 X Yogi Berra red/silver /75 (1.00)
 42 X josh gibson green/red /50 x2
 43 X Early Wynn blue/silver /75 (0.68)
+   X red/silver /75
 44   Clemente
 45 X Spahn green/silver (0.85)
    X red/silver /75
@@ -397,8 +398,8 @@ X| | | | | |98| Winfield
    X hack wilson blue/red /50
    X hack wilson blue/blue /25
    X Hack Wilson green/silver /75
-51   Kaline
-52 X Duke Snider blue/silver /75 (0.85)
+51 X Kaline red/silver /75
+52 X Duke Snider blue/silver /75 (0.85) x2
 53   Bob Gibson
 54   Frank Robinson
 55   Marichal green/silver /75 (0.89)
@@ -409,16 +410,19 @@ X| | | | | |98| Winfield
 59   Killebrew
 60 X PeeWee Reese red/silver /75
 61 X slaughter red/red /50
+   X blue/silver /75
 62   Arky Vaughan
 63 X mccovey red/red /50
    X McCovey green/red /50
 64 X Catfish Hunter blue/silver /75
-   X blue/red /50
-65   johnny Bench
+   X blue/red /50 x2
+   X red/silver
+65 X johnny Bench blue/red /50
 66   Yaz
 67 X Joe Morgan green/silver /75
 68 X Jim Palmer green/silver /75 (0.74)
    X red/red /50
+   X blue/silver /75
 69   Rod Carew
 70 X lazzeri red/red /50
    X lazzeri blue/silver /75 (0.79)
@@ -431,6 +435,7 @@ X| | | | | |98| Winfield
 75 X Durocher red/red /50
    X Durocher blue/green /10
 76 X Rizzuto red/silver /75 (0.81)
+   X green/silver /75
 77   Ashburn
 78   Schmidt
 79 X Doby green/silver (0.74)
@@ -439,7 +444,7 @@ X| | | | | |98| Winfield
 81 X cepeda red/green /10
      cepeda blue/silver /75 (0.99)
 82   Nolan Ryan
-83   yount
+83 X yount blue/silver /75
 84 X fisk green/red /50
 85 X ozzie smith red/red /50
    X green/silver /75
@@ -456,8 +461,8 @@ X| | | | | |98| Winfield
 95   Alomar
 96 X blyleven red/red /50
 97   Larkin
-98   Glavine
-99   Maddux
+98 X Glavine blue/red /50
+99 X Maddux red/silver /75
 100 X thomas red/silver /75
 
 ## elite
