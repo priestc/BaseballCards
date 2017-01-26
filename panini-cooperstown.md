@@ -327,7 +327,7 @@ X| | | | | |98| Winfield
 1   Ty Cobb
 2 X walter johnson green/red /50 x2
 3 X christy mathewson green/silver /75
-4   Honus Wagner
+4 X Honus Wagner green/silver /75
 5   nap lajoie
 6
 7 X Cy Young red/blue /25
@@ -377,9 +377,11 @@ X| | | | | |98| Winfield
 36 X campanella green/red /50
      campanella blue/silver /75 (0.85)
 37 X musial red/silver /75
+   X blue/silver /75
 38   Bancroft green/silver /75 (0.89)
-   X bancroft green/green /10
-     bancroft red/silver /75 (0.82)
+   X green/green /10
+     red/silver /75 (0.82)
+   X blue/silver /75
 39 X Rube Marquard blue/red /50
 40   Paige
 41 X Yogi Berra red/silver /75 (1.00)
@@ -391,7 +393,7 @@ X| | | | | |98| Winfield
    X red/silver /75
 46 X jim bottomley green/silver /75
 47   Whitey Ford
-48   Ernie banks
+48 X Ernie banks green/silver /75
 49   Eddie Mathews
 50 X hack wilson red/red /50
    X hack wilson blue/silver /75
@@ -420,6 +422,7 @@ X| | | | | |98| Winfield
 65 X johnny Bench blue/red /50
 66   Yaz
 67 X Joe Morgan green/silver /75
+   X red/silver /75
 68 X Jim Palmer green/silver /75 (0.74)
    X red/red /50
    X blue/silver /75
@@ -440,11 +443,12 @@ X| | | | | |98| Winfield
 78   Schmidt
 79 X Doby green/silver (0.74)
 80 X george brett red/red /50
-  X green/red /50
+   X green/red /50
+   X green/silver
 81 X cepeda red/green /10
      cepeda blue/silver /75 (0.99)
 82   Nolan Ryan
-83 X yount blue/silver /75
+83 X yount blue/silver /75 x2
 84 X fisk green/red /50
 85 X ozzie smith red/red /50
    X green/silver /75
@@ -455,7 +459,7 @@ X| | | | | |98| Winfield
 89   Sandberg
 90   Gwynn
 91   Ripken
-92   Henderson
+92 X Henderson red/silver /75
 93   Jim Rice
 94 X Dawson red/blue /25
 95   Alomar
