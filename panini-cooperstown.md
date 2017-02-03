@@ -327,12 +327,14 @@ X| | | | | |98| Winfield
 1   Ty Cobb
 2 X walter johnson green/red /50 x2
 3 X christy mathewson green/silver /75
+  X red/red /50
 4 X Honus Wagner green/silver /75
 5   nap lajoie
 6
 7 X Cy Young red/blue /25
     Cy Young blue/silver /75 (0.95)
 8 X Grover Alexander green/silver /75 (0.74)
+  X red/blue /25
 9 X Alexander Cartwright green/silver /75
 10 X Eddie Collins blue/gold /5
    X green/red /50
@@ -373,6 +375,7 @@ X| | | | | |98| Winfield
    X Roush blue/silver /75 (0.82)
 33 X Grimes green/silver /75 (0.83)
 34 X miller huggins red/silver /75
+   X blue/silver /75
 35 X casey stengal red/red /50
 36 X campanella green/red /50
      campanella blue/silver /75 (0.85)
@@ -380,6 +383,7 @@ X| | | | | |98| Winfield
    X blue/silver /75
 38   Bancroft green/silver /75 (0.89)
    X green/green /10
+   X Red/blue /25
      red/silver /75 (0.82)
    X blue/silver /75
 39 X Rube Marquard blue/red /50
@@ -393,8 +397,8 @@ X| | | | | |98| Winfield
    X red/silver /75
 46 X jim bottomley green/silver /75
 47   Whitey Ford
-48 X Ernie banks green/silver /75
-49   Eddie Mathews
+48 X Ernie banks green/silver /75oid
+49 X Eddie Mathews blue/blue /25
 50 X hack wilson red/red /50
    X hack wilson blue/silver /75
    X hack wilson blue/red /50
@@ -431,6 +435,7 @@ X| | | | | |98| Winfield
    X lazzeri blue/silver /75 (0.79)
 71   Newhouser red/silver /75 (0.81)
 72 X seaver blue/gold /5
+   X blue/green /10
 73
 74 X steve carlton blue/red /50
      steve carlton blue/silver /75 (0.93)
@@ -456,7 +461,7 @@ X| | | | | |98| Winfield
 87 X Paul Molitor green/silver /75 (0.68)
    X blue/silver /75
 88   Boggs
-89   Sandberg
+89 X Sandberg blue/silver /75
 90   Gwynn
 91   Ripken
 92 X Henderson red/silver /75
@@ -471,6 +476,8 @@ X| | | | | |98| Winfield
 
 ## elite
 1 X Bob Gibson gold /25
+4 X Yaz
+5 X Berra
 6 X o. smith
 8 X Whitey Ford
 10 X Ernie Banks
@@ -482,22 +489,27 @@ X| | | | | |98| Winfield
 25 X miller huggins
 26 X Nap Lajoie
 27 X Nolan Ryan
+29 X Henderson gold /25
 38 X tris speaker
 40 X Keeler
 
 ## crusade
-6 X Speaker blue
+6 X Speaker blue +red
 21 X traynor red /75
+23 X Foxx red
 24 X ott orange die cut /25
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
    X purple /50 (0.85)
+39 X Marquard blue
 42 X Josh Gibson blue
 43 X Wynn orange die cut /25
 46 X Bottomly orange die cut /25
+48 X Banks blue
 53 X Bob Gibson blue
-58 X Ferrell purple /50 (0.95)
+58 X Ferrell purple /50 (0.95) +blue
 63 X McCovey blue
+64 X Hunter red
 69 X Carew /75
 70 X lazzeri red /75
 73 X R. Jackson blue
@@ -506,21 +518,32 @@ X| | | | | |98| Winfield
 89 X sandberg blue
 97 X larkin blue
 98 X Glavine orange die cut /25
+100 X Thomas blue
 
 ## dominators
 8 X Eddie Collins
 10 X Frank Chance gold /25
 14 X Wagner
+20 X Josh Gibson
+21 X Gehrig
 22 X mel ott
+25 X Lajoie
+26 X N. Ryan
 24 X Huggins
+28 X Henderson Gold /25
 32 X Campanella
 33 X sandberg gold /25
 
 ## diamond kings
 8 X Bottomley red /75
-11 X gehrig red /75
+11 X gehrig red /75 +base
+13 X Sisler red /75
+25 X Dizzy Dean
 27 X Terry
+31 X J. Robinson red /75
 33 X Grimes
+36 X Campanella red /75
+38 X Bancroft blue /50
 45 X Spahn
 48 X banks
 52 X snider
@@ -528,6 +551,7 @@ X| | | | | |98| Winfield
 72 X seaver
 79 X larry doby
 85 X o. smith
+93 X Rice
 94 X andre dawson blue /50 + red /75
 95 X alomar
 96 X blyleven
