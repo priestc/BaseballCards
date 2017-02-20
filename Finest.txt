@@ -10,10 +10,14 @@
 
 1997 Finest
 ===========
+w = embossed refractor
 
+10  B Bagwell
 40  R P. Martinez
 50  R Mike Piazza
 63  R Rickey Henderson
+111 W Alomar
 136 R Smoltz
+160 B Thomas
 205 R Alomar
 317 R Glavine

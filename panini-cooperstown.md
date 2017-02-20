@@ -344,6 +344,7 @@ X| | | | | |98| Winfield
 13 X george sisler green/red /50
 14 X rogers hornsby red/red /50
 15 X frank chance green/silver /75
+   X red/green /10
 16 X Evers blue/red /50
    X Evers blue/silver /75
    X Evers blue/red /50 (0.81)
@@ -364,6 +365,7 @@ X| | | | | |98| Winfield
    X rabbit maranville red/silver /75 (0.73)
      rabbit maranville blue/silver /75 (0.97)
 27 X bill terry blue/silver /75 (0.89)
+   X red/blue /25
 28   Dimaggio
 29   Zack Wheat red/silver /75 (0.90)
    X Zack Wheat red/red (0.81)
@@ -372,8 +374,9 @@ X| | | | | |98| Winfield
    X blue/red /50
    X red/red /50
 32   Roush green/silver /75 (0.95)
-   X Roush blue/silver /75 (0.82)
+   X Roush blue/silver /75 (0.82) x2
 33 X Grimes green/silver /75 (0.83)
+   X green/red /50
 34 X miller huggins red/silver /75
    X blue/silver /75
 35 X casey stengal red/red /50
@@ -463,16 +466,17 @@ X| | | | | |98| Winfield
 88   Boggs
 89 X Sandberg blue/silver /75
 90   Gwynn
-91   Ripken
+91 X Ripken blue/red /50
 92 X Henderson red/silver /75
 93   Jim Rice
 94 X Dawson red/blue /25
 95   Alomar
 96 X blyleven red/red /50
-97   Larkin
+97 X Larkin green/blue /25
 98 X Glavine blue/red /50
 99 X Maddux red/silver /75
 100 X thomas red/silver /75
+    X blue/silver /75
 
 ## elite
 1 X Bob Gibson gold /25
@@ -494,10 +498,14 @@ X| | | | | |98| Winfield
 40 X Keeler
 
 ## crusade
-6 X Speaker blue +red
+3 X Mathewson orange /25
+4 X Wagner red /75
+6 X Speaker blue
+  X red
 21 X traynor red /75
 23 X Foxx red
 24 X ott orange die cut /25
+26 X Maranville purple /50
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
    X purple /50 (0.85)
@@ -507,6 +515,7 @@ X| | | | | |98| Winfield
 46 X Bottomly orange die cut /25
 48 X Banks blue
 53 X Bob Gibson blue
+54 X F. Robinson gold /10
 58 X Ferrell purple /50 (0.95) +blue
 63 X McCovey blue
 64 X Hunter red
@@ -514,6 +523,7 @@ X| | | | | |98| Winfield
 70 X lazzeri red /75
 73 X R. Jackson blue
 75 X leo durocher blue
+78 X Schmidt blue
 82 X Nolan Ryan red /75
 89 X sandberg blue
 97 X larkin blue
