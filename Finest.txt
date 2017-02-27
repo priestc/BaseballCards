@@ -16,8 +16,11 @@ w = embossed refractor
 40  R P. Martinez
 50  R Mike Piazza
 63  R Rickey Henderson
-111 W Alomar
+111 WE Alomar
 136 R Smoltz
 160 B Thomas
+169 R Gwynn
 205 R Alomar
+298 E Gwynn
 317 R Glavine
+350 R Smoltz

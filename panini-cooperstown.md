@@ -2,156 +2,156 @@
 
 base | red | yellow | number | player
 ----|-----|--------|---------|-------
-X | | | 1 | ty cobb
+X | |X| 1 | ty cobb
 X | |X| 2 | walter johnson
 X | |X| 3 | honus wagner
 X | | | 4 | christy matthewson
   | | | 5 | Nap Lajoie
-X | | | 6 | lou gehrig
+X | |X| 6 | lou gehrig
 X | | | 7 | ban johnson
-X | | | 8 | connie Mack
+X | |X| 8 | connie Mack
   | | | 9 | Cartwright
 X | | | 10 | ozzie smith
-X | | | 11 | buck ewing
-  | | | 12 | Sutton
-  | | | 13 | Keeler
+X | |X| 11 | buck ewing
+  | |X| 12 | Sutton
+  | |X| 13 | Keeler
 X | | | 14 | nolan ryan
-  | | | 15 | Al Spalding
-X | | | 16 | rod carew
+  | |X| 15 | Al Spalding
+X | |X| 16 | rod carew
 X | | | 17 | eddie collins
   | | | 18 | Clemente
-X | | | 19 | molitor
-X | | | 20 | george sisler
-X | | | 21 | charles cominsky
+X | |X| 19 | molitor
+X | |X| 20 | george sisler
+X | |X| 21 | charles cominsky
 X | | | 22 | rogers hornsby
 X | | | 23 | larkin
 X | | | 24 | george brett
 X | | | 25 | fred clarke
-X | | | 26 | ed delahanty
+X | |X| 26 | ed delahanty
 X | | | 27 | hugh duffy
 X | | | 28 | king kelly
-X | | | 29 | Marquard +red  
+X | |X| 29 | Marquard +red  
 X | | | 30 | santo
-X | | | 31 | heilmann
+X | |X| 31 | heilmann
 X | | | 32 | gary carter
 X | | | 33 | tinker +red
 X | | | 34 | evers
-X | | | 35 | chance
-X | | | 36 | grove
-X | | | 37 | frisch
+X | |X| 35 | chance
+X | |X| 36 | grove
+X | |X| 37 | frisch
 X | | | 38 | mccarthy +blue
 X | |X| 39 | mike schmidt
-- [X] 40 mazeroski
-- [X] 41 mickey cochrane +red
-- [X] 42 eckersley
+- [X] 40 mazeroski +gold
+- [X] 41 mickey cochrane +red +gold
+- [X] 42 eckersley +gold
 - [X] 43 murray
 - [X] 44 Ryne Sandberg
 - [X] 45 fisk
 - [X] 46 hubbell
 - [X] 47 pennock
-- [X] 48 traynor
-- [X] 49 gehringer
+- [X] 48 traynor +gold
+- [X] 49 gehringer +gold
 - [X] 50 mel ott (+gold)
-- [X] 51 Jimmie foxx
-- [X] 52 paul waner
-- [X] 53 lloyd waner
-- [X] 54 bruce sutter
+- [X] 51 Jimmie foxx +gold
+- [X] 52 paul waner +gold
+- [X] 53 lloyd waner +gold
+- [X] 54 bruce sutter +gold
 - [X] 55 bill dickey
 - [X] 56 Alomar (+G)
 - [ ] 57 Neikro
-- [X] 58 ted williams
-- [X] 59 ashburn
+- [X] 58 ted williams +gold
+- [X] 59 ashburn +gold
 - [X] 60 Ray Schalk
-- [X] 61 perry
+- [X] 61 perry +gold
 - [X] 62 rabbit maranville
-- [X] 63 Sam Crawford
+- [X] 63 Sam Crawford +gold
 - [X] 64 rice
 - [X] 65 zack wheat
 - [X] 66 wade boggs (+G)
 - [X] 67 Dave winfield
 - [X] 68 joe cronin
 - [X] 69 feller +red
-- [X] 70 Billy Hamilton
+- [X] 70 Billy Hamilton +gold
 - [X] 71 Hank Greenberg
 - [ ] 72 Jackie Robinson (+G)
-- [X] 73 huggins
+- [X] 73 huggins +gold
 - [X] 74 appling
-- [X] 75 Paige
-- [X] 76 lemon
+- [X] 75 Paige +gold
+- [X] 76 lemon +gold
 - [X] 77 doerr
 - [X] 78 berra (+G)
 - [X] 79 early wynn
 - [X] 80 carl Yaz (+G)
-- [X] 81 f. robinson
-- [X] 82 LaSorda
-- [X] 83 grimes
+- [X] 81 f. robinson +gold
+- [X] 82 LaSorda +gold
+- [X] 83 grimes +gold
 - [X] 84 Andre Dawson (+G)
-- [X] 85 snider
+- [X] 85 snider +gold
 - [ ] 86 Whitey Ford
-- [X] 87 herzog
+- [X] 87 herzog +gold +red +blue +green
 - [X] 88 medwick
 - [X] 89 perez +red
 - [X] 90 boudreau
-- [X] 91 seaver
-- [X] 92 musial
-- [X] 93 sparky anderson
+- [X] 91 seaver +gold
+- [X] 92 musial +gold
+- [X] 93 sparky anderson +gold
 - [X] 94 jim bunning
-- [X] 95 newhouser
+- [X] 95 newhouser +gold
 - [ ] 96 Rizzuto
 - [X] 97 Al Barlick
-- [X] 98 Kiner
-- [X] 99 mathews
-- [X] 100 kell
-- [X] 101 slaughter
+- [X] 98 Kiner +gold
+- [X] 99 mathews +gold
+- [X] 100 kell +gold
+- [X] 101 slaughter +gold
 - [X] 102 kaline
-- [X] 103 mize
-- [X] 104 Bob Gibson
+- [X] 103 mize +gold
+- [X] 104 Bob Gibson +gold
 - [X] 105 joss
-- [X] 106 yount
-- [X] 107 rollie fingers
-- [ ] 108 Campanella
+- [X] 106 yount +gold
+- [X] 107 rollie fingers +gold
+- [ ] 108 Campanella +gold
 - [X] 109 blyleven
 - [X] 110 gwynn (+G)
 - [X] 111 f. robinson
 - [X] 112 w. alston
-- [ ] 113 DiMaggio
-- [X] 114 spahn
-- [X] 115 banks
+- [ ] 113 DiMaggio +gold
+- [X] 114 spahn +gold
+- [X] 115 banks +gold
 - [X] 116 earl weaver
-- [X] 117 steve carlton
+- [X] 117 steve carlton +gold
 - [X] 118 Cepeda
-- [X] 119 al lopez
+- [X] 119 al lopez +gold
 - [X] 120 henderson
-- [X] 121 hooper
-- [X] 122 goose goslin
+- [X] 121 hooper +gold
+- [X] 122 goose goslin +gold
 - [X] 123 Nellie Fox
 - [X] 124 palmer
 - [X] 125 irvin
 - [X] 126 buck leonard
 - [X] 127 gossage
 - [X] 128 hack wilson
-- [X] 129 sam thompson
-- [X] 130 mccovey
+- [X] 129 sam thompson +gold
+- [X] 130 mccovey +gold
 - [X] 131 ripken
 - [X] 132 ralph kiner
-- [X] 133 Arky Vaughan
+- [X] 133 Arky Vaughan +gold
 - [X] 134 marichal
 - [X] 135 B. robinson
-- [X] 136 aparicio
+- [X] 136 aparicio +gold
 - [X] 137 ferrell
-- [X] 138 Bench
-- [X] 139 killebrew
-- [X] 140 pee wee reese
-- [X] 141 wilhelm
+- [X] 138 Bench +gold
+- [X] 139 killebrew +gold
+- [X] 140 pee wee reese +gold
+- [X] 141 wilhelm +gold
 - [X] 142 brock (+G)
 - [X] 143 Catfish Hunter
-- [X] 144 red schoendienst
+- [X] 144 red schoendienst +gold
 - [X] 145 morgan
 - [X] 146 stargell (+G)
 - [X] 147 reggie Jackson
-- [X] 148 jenkins
+- [X] 148 jenkins +gold
 - [X] 149 Lazzeri
-- [X] 150 billy williams
+- [X] 150 billy williams +gold
 
 ## SP
 - [ ] [ ] 151 Lou Gehrig
@@ -326,6 +326,7 @@ X| | | | | |98| Winfield
 
 1   Ty Cobb
 2 X walter johnson green/red /50 x2
+  X blue/red /50
 3 X christy mathewson green/silver /75
   X red/red /50
 4 X Honus Wagner green/silver /75
@@ -400,7 +401,7 @@ X| | | | | |98| Winfield
    X red/silver /75
 46 X jim bottomley green/silver /75
 47   Whitey Ford
-48 X Ernie banks green/silver /75oid
+48 X Ernie banks green/silver /75
 49 X Eddie Mathews blue/blue /25
 50 X hack wilson red/red /50
    X hack wilson blue/silver /75
@@ -458,12 +459,13 @@ X| | | | | |98| Winfield
 82   Nolan Ryan
 83 X yount blue/silver /75 x2
 84 X fisk green/red /50
+   X blue/blue /25
 85 X ozzie smith red/red /50
    X green/silver /75
 86 X Murray red/silver /75 (0.74)
 87 X Paul Molitor green/silver /75 (0.68)
    X blue/silver /75
-88   Boggs
+88 X Boggs green/blue /25
 89 X Sandberg blue/silver /75
 90   Gwynn
 91 X Ripken blue/red /50
@@ -516,15 +518,17 @@ X| | | | | |98| Winfield
 48 X Banks blue
 53 X Bob Gibson blue
 54 X F. Robinson gold /10
-58 X Ferrell purple /50 (0.95) +blue
+58 X Ferrell purple /50 (0.95) +blue +red
 63 X McCovey blue
 64 X Hunter red
+66 X Yaz red /75
 69 X Carew /75
 70 X lazzeri red /75
 73 X R. Jackson blue
 75 X leo durocher blue
 78 X Schmidt blue
 82 X Nolan Ryan red /75
+86 X Murray purple /50
 89 X sandberg blue
 97 X larkin blue
 98 X Glavine orange die cut /25
