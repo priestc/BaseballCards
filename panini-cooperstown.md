@@ -576,11 +576,43 @@ X| | | | | |98| Winfield
 
 
 # 2015
-16 X Sutter gold /5
-47 X honus wagner red /35
+6 X Larkin red/35
+8 X Bill Dickey
+14 X Doerr
+16 X Sutter gold /5 +base
+20 X Gehringer
+28 X Duke Snider blue /25 +base
+30 X Mathews red /35
+34 X F. Robinson
+35 X Thomas blue /25
+37 X Hartnett
+39 X Gaylord Perry red /35
+41 X George Kelly
+45 X Killebrew
+46 X Pennock red /35
+47 X honus wagner red /35 +base
+49 X Bottomly
+50 X Bunning red /35
+52 X Jim Rice red /35
+59 X Marichal blue /25
 61 X leo Durocher
+62 X Brock
+67 X Monte Irvin red /35
+71 X Gillick
+73 X Pedro Martinez (induction+base)
+74 X Reese (induction)
+75 X Niekro
+76 X Randy Johnson (induction)
+78 X R. Jackson (ind)\
+83 X Carew blue /25 +base
 87 X sam crawford blue /25
+88 X Musial
+89 X Carlton
+92 X Lasorda (base+induction)
 93 X tony gwynn
+94 X LaRussa blue /25
+98 X Whitey Ford blue /25
+100 X Berra blue /25 +induction
 
 ## crown royal
 2 X al simmons
