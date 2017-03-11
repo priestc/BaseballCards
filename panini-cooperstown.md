@@ -357,7 +357,7 @@ X| | | | | |98| Winfield
 20   Pennock
 21 X traynor blue/silver /75
 22 X Mordecai Brown blue/silver /75
-23   Foxx
+23 X Foxx green/red /50
 24 X mel ott blue/blue /25
 25 X dizzy dean blue/blue /25
    X dizzy dean blue/silver /75
@@ -437,7 +437,8 @@ X| | | | | |98| Winfield
 69   Rod Carew
 70 X lazzeri red/red /50
    X lazzeri blue/silver /75 (0.79)
-71   Newhouser red/silver /75 (0.81)
+71 X Newhouser green/silver /75
+     red/silver /75 (0.81)
 72 X seaver blue/gold /5
    X blue/green /10
 73
@@ -454,6 +455,7 @@ X| | | | | |98| Winfield
 80 X george brett red/red /50
    X green/red /50
    X green/silver
+   X blue/blue /25
 81 X cepeda red/green /10
      cepeda blue/silver /75 (0.99)
 82   Nolan Ryan
@@ -511,6 +513,7 @@ X| | | | | |98| Winfield
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
    X purple /50 (0.85)
+34 X Huggins red /75
 39 X Marquard blue
 42 X Josh Gibson blue
 43 X Wynn orange die cut /25
@@ -558,11 +561,13 @@ X| | | | | |98| Winfield
 33 X Grimes
 36 X Campanella red /75
 38 X Bancroft blue /50
+44 X Clemente blue /50
 45 X Spahn
 48 X banks
 52 X snider
 70 X lazzeri red /75
 72 X seaver
+77 X Ashburn red /75
 79 X larry doby
 85 X o. smith
 93 X Rice
@@ -603,7 +608,7 @@ X| | | | | |98| Winfield
 74 X Reese (induction)
 75 X Niekro
 76 X Randy Johnson (induction)
-78 X R. Jackson (ind)\
+78 X R. Jackson (ind)
 83 X Carew blue /25 +base
 87 X sam crawford blue /25
 88 X Musial
