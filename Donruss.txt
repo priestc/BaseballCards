@@ -1,0 +1,117 @@
+2017
+====
+
+177 p Cal Ripken, Jr.
+178 p Dave Winfield
+179 p Duke Snider
+180 p Frank Thomas
+181 X Jim Palmer
+182   Johnny Bench
+183   Ken Griffey, Jr.
+184   Kirby Puckett
+185   Nolan Ryan
+187   Roberto Alomar
+188   Ryne Sandberg
+189   Tom Seaver
+190   Tony Gwynn
+191   Wade Boggs
+192   Willie McCovey
+193   Willie Stargell
+
+177   Cal Ripken, Jr. "Hall of Fame 2007"
+178   Dave Winfield "12 Time All-Star"
+179   Duke Snider "The Duke of Flatbush"
+180   Frank Thomas "1993 MVP"
+182   Johnny Bench "Little General, 1968 NL ROY"
+185   Nolan Ryan "The Express, Hall of Fame 1999"
+188   Ryne Sandberg "Ryno"
+191   Wade Boggs "Chicken Man, .368 BA 1985"
+193   Willie Stargell "Pops"
+
+
+2017 - 1983 retro
+==========
+
+41 X Mike Piazza
+42   Pedro Martinez
+43   Robin Yount
+44   Eddie Murray
+45   Ozzie Smith
+46   Harmon Killebrew
+47   Joe Morgan
+48   Goose Gossage
+49   Craig Biggio
+50   Brooks Robinson
+
+2016
+====
+
+176   Mariano Rivera
+177   Ryne Sandberg
+178   Kirby Puckett
+179   Ken Griffey, Jr.
+180   Frank Thomas
+181   Cal Ripken, Jr.
+182   George Brett
+183   Nolan Ryan
+184   Rickey Henderson
+185   Carl Yastrzemski
+188   Pedro Martinez
+189   Craig Biggio
+190   John Smoltz
+
+
+2015
+====
+
+126 X Ichiro
+181 X Rickey Henderson
+182 X Mike Piazza
+183 X Willie McCovey
+185 X Frank Thomas
+186 X Frank Robinson
+187 X Kirby Puckett
+188 X Mariano Rivera
+189 X George Brett
+190 X Wade Boggs
+191 X Ryne Sandberg
+193 X Tony Gwynn
+195 X Ernie Banks
+
+
+2014
+====
+
+184   Mariano Rivera
+186 X Roberto Alomar
+187 X Rickey Henderson
+188   Reggie Jackson
+189 X Ozzie Smith
+190   Nolan Ryan
+191 X Mike Piazza
+194 X Chipper Jones
+195 X Johnny Bench
+196 X Ken Griffey, Jr.
+197   Frank Thomas
+198   Cal Ripken, Jr.
+199 X George Brett
+
+purchase
+========
+
+2017 - 15
+----
+177,178,179,180,182,183,184,185,187,188,189,190,191,192,193
+
+2016 - 13
+----
+126,176,177,178,179,180,181,182,183,184,185,188,189,190
+
+2015 - 13
+----
+181,182,183,185,186,187,188,189,190,191,193,194,195
+
+
+2014 - 8
+----
+186,187,189,191,194,195,196,199

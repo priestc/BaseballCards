@@ -449,6 +449,7 @@ X| | | | | |98| Winfield
    X Durocher blue/green /10
 76 X Rizzuto red/silver /75 (0.81)
    X green/silver /75
+   X green/blue /25
 77   Ashburn
 78   Schmidt
 79 X Doby green/silver (0.74)
@@ -506,6 +507,7 @@ X| | | | | |98| Winfield
 4 X Wagner red /75
 6 X Speaker blue
   X red
+20 X Pennock orange /25
 21 X traynor red /75
 23 X Foxx red
 24 X ott orange die cut /25
