@@ -364,7 +364,7 @@ X| | | | | |98| Winfield
 26 X rabbit maranville red/red /50
    X rabbit maranville blue/red /50
    X rabbit maranville red/silver /75 (0.73)
-     rabbit maranville blue/silver /75 (0.97)
+   X rabbit maranville blue/silver /75 (0.85)
 27 X bill terry blue/silver /75 (0.89)
    X red/blue /25
 28   Dimaggio
@@ -499,6 +499,7 @@ X| | | | | |98| Winfield
 26 X Nap Lajoie
 27 X Nolan Ryan
 29 X Henderson gold /25
+31 X Hunter
 38 X tris speaker
 40 X Keeler
 
@@ -515,11 +516,13 @@ X| | | | | |98| Winfield
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
    X purple /50 (0.85)
+32 X Roush blue
 34 X Huggins red /75
 39 X Marquard blue
 42 X Josh Gibson blue
 43 X Wynn orange die cut /25
 46 X Bottomly orange die cut /25
+67 X Ford red /75
 48 X Banks blue
 53 X Bob Gibson blue
 54 X F. Robinson gold /10
@@ -529,20 +532,25 @@ X| | | | | |98| Winfield
 66 X Yaz red /75
 69 X Carew /75
 70 X lazzeri red /75
+72 X Seaver red /75
 73 X R. Jackson blue
 75 X leo durocher blue
 78 X Schmidt blue
+80 X Brett blue
 82 X Nolan Ryan red /75
 86 X Murray purple /50
 89 X sandberg blue
+95 X Alomar red /75
 97 X larkin blue
 98 X Glavine orange die cut /25
+   X blue
 100 X Thomas blue
 
 ## dominators
 8 X Eddie Collins
 10 X Frank Chance gold /25
 14 X Wagner
+19 X Evers
 20 X Josh Gibson
 21 X Gehrig
 22 X mel ott
@@ -550,13 +558,17 @@ X| | | | | |98| Winfield
 26 X N. Ryan
 24 X Huggins
 28 X Henderson Gold /25
+30 X Carew
+31 X Hornsby
 32 X Campanella
 33 X sandberg gold /25
+39 X Cobb
 
 ## diamond kings
 8 X Bottomley red /75
 11 X gehrig red /75 +base
 13 X Sisler red /75
+15 X Chance
 25 X Dizzy Dean
 27 X Terry
 31 X J. Robinson red /75
@@ -567,11 +579,15 @@ X| | | | | |98| Winfield
 45 X Spahn
 48 X banks
 52 X snider
+54 X F. Robinson blue /50
 70 X lazzeri red /75
 72 X seaver
 77 X Ashburn red /75
 79 X larry doby
+80 X Brett
 85 X o. smith
+88 X Boggs
+92 X Henderson
 93 X Rice
 94 X andre dawson blue /50 + red /75
 95 X alomar
@@ -603,7 +619,7 @@ X| | | | | |98| Winfield
 52 X Jim Rice red /35
 59 X Marichal blue /25
 61 X leo Durocher
-62 X Brock
+62 X Brock +blue /25 +base
 67 X Monte Irvin red /35
 71 X Gillick
 73 X Pedro Martinez (induction+base)
@@ -621,6 +637,9 @@ X| | | | | |98| Winfield
 98 X Whitey Ford blue /25
 100 X Berra blue /25 +induction
 
+#Names of the game
+25 X Gehrig
+
 ## crown royal
 2 X al simmons
 14 X doerr /75
@@ -628,19 +647,30 @@ X| | | | | |98| Winfield
 46 X pennock /75
 56 X morgan
 59 X marichal /75
+66 X Huggins /75
+87 X Crawford /50
 95 X perez
 95 X perez /75
 
 ## armed forces
 1 X dimaggio
+3 X Feller
+4 X Ford
 5 X Gehrenger
+6 X Greenburg
+8 X J. Robinson
 9 X doby
+10 X Dickey
 11 X Rizzuto
 
 ## induction
 3 X Blyleven
+4 X Boggs
 6 X glavine
+7 X Gossage
+10 X Mazeroski
 13 X Doug Harvey
+23 X Sutter
 24 X Sutton
 
 ## golf classic
@@ -648,6 +678,7 @@ X| | | | | |98| Winfield
 
 ## etched in cooperstown
 34 X Bottomly
+70 X Ty Cobb
 
 
 22500 = silver

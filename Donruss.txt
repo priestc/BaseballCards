@@ -1,22 +1,22 @@
 2017
 ====
 
-177 p Cal Ripken, Jr.
-178 p Dave Winfield
-179 p Duke Snider
-180 p Frank Thomas
+177 X Cal Ripken, Jr.
+178 X Dave Winfield
+179 X Duke Snider
+180 X Frank Thomas
 181 X Jim Palmer
-182   Johnny Bench
-183   Ken Griffey, Jr.
-184   Kirby Puckett
-185   Nolan Ryan
-187   Roberto Alomar
-188   Ryne Sandberg
-189   Tom Seaver
-190   Tony Gwynn
-191   Wade Boggs
-192   Willie McCovey
-193   Willie Stargell
+182 X Johnny Bench
+183 X Ken Griffey, Jr.
+184 X Kirby Puckett
+185 X Nolan Ryan
+187 X Roberto Alomar
+188 X Ryne Sandberg
+189 X Tom Seaver
+190 X Tony Gwynn
+191 X Wade Boggs
+192 X Willie McCovey
+193 X Willie Stargell
 
 177   Cal Ripken, Jr. "Hall of Fame 2007"
 178   Dave Winfield "12 Time All-Star"
@@ -46,19 +46,19 @@
 2016
 ====
 
-176   Mariano Rivera
-177   Ryne Sandberg
-178   Kirby Puckett
-179   Ken Griffey, Jr.
-180   Frank Thomas
-181   Cal Ripken, Jr.
-182   George Brett
-183   Nolan Ryan
-184   Rickey Henderson
-185   Carl Yastrzemski
-188   Pedro Martinez
-189   Craig Biggio
-190   John Smoltz
+176 X Mariano Rivera
+177 X Ryne Sandberg
+178 X Kirby Puckett
+179 X Ken Griffey, Jr.
+180 X Frank Thomas
+181 X Cal Ripken, Jr.
+182 X George Brett
+183 X Nolan Ryan
+184 X Rickey Henderson
+185 X Carl Yastrzemski
+188 X Pedro Martinez
+189 X Craig Biggio
+190 X John Smoltz
 
 
 2015
@@ -95,23 +95,3 @@
 197   Frank Thomas
 198   Cal Ripken, Jr.
 199 X George Brett
-
-purchase
-========
-
-2017 - 15
-----
-177,178,179,180,182,183,184,185,187,188,189,190,191,192,193
-
-2016 - 13
-----
-126,176,177,178,179,180,181,182,183,184,185,188,189,190
-
-2015 - 13
-----
-181,182,183,185,186,187,188,189,190,191,193,194,195
-
-
-2014 - 8
-----
-186,187,189,191,194,195,196,199

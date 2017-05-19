@@ -1,0 +1,94 @@
+5 X Al Kaline
+6 X Herb Pennock
+7 X Albert Pujols
+9 X Arky Vaughan
+10 X Bill Dickey
+11 X Bill Terry
+12 X Billy Herman
+13 X Bob Feller
+14 X Bob Gibson
+16 X Brooks Robinson
+18 X Burleigh Grimes
+20   Cal Ripken, Jr.
+21 X Carl Yastrzemski
+23 X Carlton Fisk
+24 X Lefty Gomez
+25 X Chipper Jones
+30 X Dave Bancroft
+33   Derek Jeter
+34 X Dizzy Dean
+35 X Duke Snider
+37 X Earl Averill
+38 X Eddie Collins
+39 X Eddie Murray
+43   Ernie Banks
+46 X Frank Chance
+47   Frank Robinson
+48 X Frank Thomas
+51 X Gabby Hartnett
+52   George Brett
+53 X George Kelly
+54 X George Sisler
+56 X Goose Goslin
+57   Greg Maddux
+58 X Hack Wilson
+59   Hank Greenberg
+61   Harmon Killebrew
+62 X Harry Heilmann
+63 X Honus Wagner
+64 X Ichiro
+65   Jackie Robinson
+66 X Jim Bottomley
+67 X Jim Palmer
+69 X Jimmie Foxx
+70 X Joe DiMaggio
+73   Joe Medwick
+74 X Joe Morgan
+76 X Johnny Bench
+80 X Josh Gibson
+81 X Juan Marichal
+84   Ken Griffey, Jr.
+85 X Lefty Grove
+86 X Leo Durocher
+87 X Lloyd Waner
+89 X Luke Appling
+91 X Mariano Rivera
+94 X Mel Ott
+96 X Mike Piazza
+98 X Miller Huggins
+99 X Nap Lajoie
+100 X Nellie Fox
+101 X Nolan Ryan
+102   Orlando Cepeda
+104 X Paul Molitor
+105 X Paul Waner
+106 X Pee Wee Reese
+108 X Phil Rizzuto
+109 X Reggie Jackson
+110   Rick Ferrell
+111   Rickey Henderson
+113 X Robin Yount
+114 X Rod Carew
+115 X Roger Bresnahan
+118 X Barry Bonds
+119 X Roy Campanella
+121 X Ryne Sandberg
+122 X Sam Crawford
+123 X Satchel Paige
+124 X Stan Musial
+126 X Steve Carlton
+130   Todd Helton
+131   Tom Glavine
+132 X Tom Seaver
+134   Tony Gwynn
+135 X Tony Lazzeri
+136 X Tony Perez
+137 X Tris Speaker
+139   Ty Cobb
+140   Wade Boggs
+141 X Warren Spahn
+142 X Whitey Ford
+144 X Willie Keeler
+145 X Willie McCovey
+146 X Willie Stargell
+149 X Yogi Berra

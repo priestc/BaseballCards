@@ -1,16 +1,47 @@
 2017
 ====
 
+1 X Babe Ruth
+2   Bill Dickey
 3 X Herman
+4 X Billy Martin
 9 X G. Alexander
+10 X Ernie Banks
+11   George Kelly
+12   Harry Hooper
 13 X Pennock
+14 X Honus Wagner
+15 X Jackie Robinson
+17 X Joe Cronin
+18 X Joe DiMaggio
 20 X Cuyler
-25 X Appling
-27 X Puckett
-30 X Reese
+21 X Lefty Gomez
+22 X Leo Durocher
+23 X Lloyd Waner
+24 X Lou Gehrig
+25 X Luke Appling
+27 X Kirby Puckett
+28 X Nellie Fox
+29   Paul Waner
+30 X Pee Wee Reese
+31 X Roberto Clemente
+33 X Stan Musial
+35 X Ted Williams
+37 X Ty Cobb
+38 X Tony Lazzeri
 39 X Hack Wilson
+40   Earl Averill
+41 X Nap Lajoie
+42 X Goose Goslin
+43 X Jim Bottomley
 45 X Hartnett
 100 X B. williams
+94   Chipper Jones
+95   Curt Schilling
+96   Fergie Jenkins
+97   Craig Biggio
+98   Brooks Robinson
+99   Larry Doby
 
 Memorable moments
 =================
