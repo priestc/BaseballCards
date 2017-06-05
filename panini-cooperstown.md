@@ -565,6 +565,7 @@ X| | | | | |98| Winfield
 39 X Cobb
 
 ## diamond kings
+1 X Ty Cobb red /75
 8 X Bottomley red /75
 11 X gehrig red /75 +base
 13 X Sisler red /75
@@ -575,23 +576,35 @@ X| | | | | |98| Winfield
 33 X Grimes
 36 X Campanella red /75
 38 X Bancroft blue /50
+40 X Paige red /75
 44 X Clemente blue /50
 45 X Spahn
+47 X Whitey Ford red /75
 48 X banks
+49 X Eddie Mathews red /75
 52 X snider
+53 X Bob Gibson red /75
 54 X F. Robinson blue /50
+60 X Reese red /75
+61 X Slaughter red /75
+66 X Yaz red /75
+69 X Palmer red /75
 70 X lazzeri red /75
-72 X seaver
+72 X seaver red /75 + base
+74 X Carlton red /75
+75 X Durocher red /75
 77 X Ashburn red /75
 79 X larry doby
 80 X Brett
 85 X o. smith
-88 X Boggs
+87 X Molitor red /75
+88 X Boggs red /75 +base
 92 X Henderson
-93 X Rice
+93 X Rice red /75 +base
 94 X andre dawson blue /50 + red /75
 95 X alomar
-96 X blyleven
+96 X blyleven red /75 +base
+97 X Larkin red /75
 100 X thomas blue /50
 
 # gem cards

@@ -10,17 +10,33 @@
 
 1997 Finest
 ===========
-w = embossed refractor
+W = embossed refractor
+E = embossed
+S = Sample refractor
 
-10  B Bagwell
-40  R P. Martinez
-50  R Mike Piazza
-63  R Rickey Henderson
-111 WE Alomar
-136 R Smoltz
-160 B Thomas
-169 R Gwynn
-205 R Alomar
-298 E Gwynn
-317 R Glavine
-350 R Smoltz
+2   B   Sandberg bronze
+10  B   Bagwell bronze
+29  B   Thomas bronze
+40  BR  P. Martinez bronze
+50  BR  Piazza bronze
+62  B   Boggs bronze
+63  BR  Rickey Henderson bronze
+66  B   Larkin bronze
+90  B   Ivan Rodriguez bronze
+110 B   R. Johnson silver
+111 WE  Alomar silver
+136  R  Smoltz silver
+139 E   Griffey silver
+159 S   Bagwell gold
+160 B   Thomas gold
+169 BR  Gwynn gold
+205  R  Alomar bronze
+235  R  Murray bronze
+252 B   Ripken bronze
+279 E   Thomas silver
+292 ER  Piazza silver
+294 R   Maddux silver
+298 E   Gwynn silver
+317  R  Glavine silver
+318 W   Bagwell silver
+350 BR  Smoltz gold

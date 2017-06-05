@@ -16,32 +16,33 @@
 62 x  brett
 72 X  eckersley
 78 X  murray
-83    satchel paige
+83 X  satchel paige
 90 X  yaz
 95 X  bunning
-96    duke snider
+96 X  duke snider
 
 1979 design
 ===========
 
-101    ruth
+101 X  ruth
 103 x  r. johnson
 112 x  alomar
 115 x  early wynn
 117 x  biggio
+118    Mazeroski
 122    fisk
 127 x  molitor
 128 x  griffey
 130 x  seaver
 131 x  palmer
-141    musial
+141 X  musial
 151 x  thomas
 153 x  wagner
 163 x  feller
 166 x  aaron
 171 x  kell
 173 x  b. williams
-176    mccovey
+176 x  mccovey
 177 x  sutter
 178 x  ashburn
 180 x  o. smith
@@ -55,7 +56,7 @@
 1991 design
 ===========
 
-201   j. robinson
+201 X j. robinson
 203 x bench
 206 x wilhelm
 209   rizzuto
@@ -65,10 +66,11 @@
 223 x gossage
 228 x clemente
 235 x boudreau
-238   carew
-242   killebrew
+238 X carew
+242 x killebrew
 243 x ripken
 246   carter
+251 X Doerr
 253 x roberts
 259 x stargell
 262 x dawson
@@ -84,3 +86,8 @@
 SP
 304   kaline
 310   koufax
+
+father & Son
+============
+
+FS-PP X perez
