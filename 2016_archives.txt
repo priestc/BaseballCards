@@ -2,7 +2,7 @@
 ===========
 
 12 X  yount
-14 X  monte irvin
+14 XB  monte irvin
 19 X  sutton
 20 X  marichal
 24 x  blyleven
@@ -14,7 +14,7 @@
 54 X  neikro
 55 x  jenkins
 62 x  brett
-72 X  eckersley
+72 XB  eckersley
 78 X  murray
 83 X  satchel paige
 90 X  yaz
@@ -34,10 +34,10 @@
 127 x  molitor
 128 x  griffey
 130 x  seaver
-131 x  palmer
+131 xB  palmer
 141 X  musial
 151 x  thomas
-153 x  wagner
+153 xB  wagner
 163 x  feller
 166 x  aaron
 171 x  kell
@@ -51,16 +51,16 @@
 189 x  ford
 190 x  gehrig
 197    r. jackson
-199 x  e. slaughter
+199 xB  e. slaughter
 
 1991 design
 ===========
 
-201 X j. robinson
-203 x bench
-206 x wilhelm
-209   rizzuto
-210   cepeda
+201 X   j. robinson
+203 x   bench
+206 x   wilhelm
+209  RB rizzuto
+210     cepeda
 212 x perry
 220 x doby
 223 x gossage

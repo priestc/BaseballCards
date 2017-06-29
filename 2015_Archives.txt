@@ -1,5 +1,8 @@
 1957 design
 ===========
+X = base
+S = silver
+G = Gold
 
 14 X  wade biggs
 24    ripken
@@ -41,7 +44,7 @@
 181 X  killebrew
 184 X  kaline
 189 X  clemente
-197 X  lemon
+197 XSG  lemon
 
 1983 design
 ===========

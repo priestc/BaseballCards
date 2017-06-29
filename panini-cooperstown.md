@@ -506,27 +506,39 @@ X| | | | | |98| Winfield
 ## crusade
 3 X Mathewson orange /25
 4 X Wagner red /75
+5 X Lajoie red /75
 6 X Speaker blue
   X red
+9 X Cartwright purple /50
+18 X Lefty Grove red /75
 20 X Pennock orange /25
+   X red /76
 21 X traynor red /75
 23 X Foxx red
 24 X ott orange die cut /25
+25 X Dizzy Dean red /75
 26 X Maranville purple /50
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
    X purple /50 (0.85)
 32 X Roush blue
 34 X Huggins red /75
+36 X Campanella red /75
 39 X Marquard blue
 42 X Josh Gibson blue
 43 X Wynn orange die cut /25
 46 X Bottomly orange die cut /25
+   X Purple /50
 67 X Ford red /75
 48 X Banks blue
+50 X Hack Wilson red /75
 53 X Bob Gibson blue
 54 X F. Robinson gold /10
+56 X Brooks Robinson red /75
+57 X Drysdale red /75
 58 X Ferrell purple /50 (0.95) +blue +red
+60 X Reese red /75
+61 X Slaughter red /75
 63 X McCovey blue
 64 X Hunter red
 66 X Yaz red /75
@@ -534,12 +546,15 @@ X| | | | | |98| Winfield
 70 X lazzeri red /75
 72 X Seaver red /75
 73 X R. Jackson blue
+74 X Carlton red /75
 75 X leo durocher blue
+76 X Rizzuto red /75
 78 X Schmidt blue
 80 X Brett blue
 82 X Nolan Ryan red /75
 86 X Murray purple /50
 89 X sandberg blue
+93 X Rice red /75
 95 X Alomar red /75
 97 X larkin blue
 98 X Glavine orange die cut /25
@@ -566,6 +581,7 @@ X| | | | | |98| Winfield
 
 ## diamond kings
 1 X Ty Cobb red /75
+4 X Wagner gold /10
 8 X Bottomley red /75
 11 X gehrig red /75 +base
 13 X Sisler red /75

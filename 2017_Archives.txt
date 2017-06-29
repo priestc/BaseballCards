@@ -2,85 +2,85 @@
 ===========
 G = gray back
 
-3  x  Earl Weaver
-4  x  Goose Gossage
+3  x    Earl Weaver
+4  x    Goose Gossage
 5  xPG  Tony Perez
-11 v Nolan Ryan
-23 x  Honus Wagner
-24 x  Willie McCovey
-34 x  Carl Yastrzemski
-35 x  Brooks Robinson
-38 xP  Luis Aparicio
-43 v Duke Snider
-48 xP  Jim Palmer
-50 x  Hank Aaron
-57 x  Albert Pujols
-59 xP  Rollie Fingers
-60 P  Catfish Hunter
-61 v  Gary Carter
-70 x  Ichiro
-73   Bobby Doerr
-75 B  Ty Cobb
-82 x  Mike Piazza
-83   Joe Morgan
-96 x  Bruce Sutter
-99 x  Lou Gehrig
+11 x    Nolan Ryan
+23 x    Honus Wagner
+24 x    Willie McCovey
+34 x    Carl Yastrzemski
+35 x    Brooks Robinson
+38 xP   Luis Aparicio
+43 x    Duke Snider
+48 xP   Jim Palmer
+50 x    Hank Aaron
+57 x    Albert Pujols
+59 xP   Rollie Fingers
+60 P    Catfish Hunter
+61 x    Gary Carter
+70 x    Ichiro
+73      Bobby Doerr
+75 B    Ty Cobb
+82 x    Mike Piazza
+83      Joe Morgan
+96 x    Bruce Sutter
+99 x    Lou Gehrig
 
 1982 Design
 ===========
 K = blackless
 
-104 xP  Bert Blyleven
-106 vBP  Fergie Jenkins
-110 xB  Billy Williams
-116    Curt Schilling
-122 x  Willie Stargell
-125 x  Jackie Robinson
-128 xB  Roberto Alomar
-134 vK  Whitey Ford
-139    Phil Rizzuto
-140 vP  Lou Brock
-148 vB  Harmon Killebrew
-153 v  Frank Thomas
-159 v  Pedro Martinez
-163 xP  John Smoltz
-164 xB  Larry Doby
-167 xP  Dennis Eckersley
-175 v  Sandy Koufax
-179 vR  Early Wynn
-181 x  Eddie Murray
-185 x  Ivan Rodriguez
-186    Monte Irvin
-188 v  Ozzie Smith
-191 P  Sparky Anderson
-192 v  Ryne Sandberg
-197 x  Jimmie Foxx
+104 xP   Bert Blyleven
+106 xBP  Fergie Jenkins
+110 xB   Billy Williams
+116      Curt Schilling
+122 x    Willie Stargell
+125 x    Jackie Robinson
+128 xB   Roberto Alomar
+134 xK   Whitey Ford
+139      Phil Rizzuto
+140 xP   Lou Brock
+148 xB   Harmon Killebrew
+153 x    Frank Thomas
+159 x    Pedro Martinez
+163 xP   John Smoltz
+164 xB   Larry Doby
+167 xP   Dennis Eckersley
+175 x    Sandy Koufax
+179 xR   Early Wynn
+181 x    Eddie Murray
+185 x    Ivan Rodriguez
+186      Monte Irvin
+188 x    Ozzie Smith
+191 P    Sparky Anderson
+192 x    Ryne Sandberg
+197 x    Jimmie Foxx
 
 1992 Design
 ===========
 
 W = Gold Winner
 
-201 v  Roberto Clemente
+201 x   Roberto Clemente
 204 xW  Warren Spahn
-207 v  Juan Marichal
-219 x  Jim Bunning
-225 v  Babe Ruth
+207 x   Juan Marichal
+219 x   Jim Bunning
+225 x   Babe Ruth
 228 xP  Bob Lemon
-232 v  Lou Boudreau
-248 v  Andre Dawson
-249 x  Tom Glavine
-254 x  George Brett
-255 x  Reggie Jackson
-259 v  Tony La Russa
+232 x   Lou Boudreau
+248 xW  Andre Dawson
+249 x   Tom Glavine
+254 x   George Brett
+255 x   Reggie Jackson
+259 xW  Tony La Russa
 260 xW  Bob Feller
-262 x  Eddie Mathews
-265 x  Randy Johnson
-273 x  Ted Williams
-278 x  Tom Seaver
-280 x  Robin Roberts
+262 x   Eddie Mathews
+265 x   Randy Johnson
+273 x   Ted Williams
+278 x   Tom Seaver
+280 x   Robin Roberts
 295 xP  Whitey Herzog
-300 v  Derek Jeter
+300 x   Derek Jeter
 
 Gimmicks
 ========
