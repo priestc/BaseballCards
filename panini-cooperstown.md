@@ -629,8 +629,10 @@ X| | | | | |98| Winfield
 100 X thomas blue /50
 
 # gem cards
-63 X evers sapphire
 
+8 X Eddie Collins sapphire /15
+31 X Tris Speaker emerald /10
+63 X Evers sapphire /15
 
 # 2015
 6 X Larkin red/35
