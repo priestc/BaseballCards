@@ -518,6 +518,7 @@ X| | | | | |98| Winfield
 24 X ott orange die cut /25
 25 X Dizzy Dean red /75
 26 X Maranville purple /50
+27 X Terry purple /50
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
    X purple /50 (0.85)
@@ -529,11 +530,14 @@ X| | | | | |98| Winfield
 43 X Wynn orange die cut /25
 46 X Bottomly orange die cut /25
    X Purple /50
-67 X Ford red /75
+47 X Ford red /75
 48 X Banks blue
 50 X Hack Wilson red /75
 53 X Bob Gibson blue
+   x purple /50
 54 X F. Robinson gold /10
+   X blue
+55 X Marichal purple /50
 56 X Brooks Robinson red /75
 57 X Drysdale red /75
 58 X Ferrell purple /50 (0.95) +blue +red
@@ -545,6 +549,7 @@ X| | | | | |98| Winfield
 69 X Carew /75
 70 X lazzeri red /75
 72 X Seaver red /75
+   X blue
 73 X R. Jackson blue
 74 X Carlton red /75
 75 X leo durocher blue
