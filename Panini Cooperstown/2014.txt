@@ -1,0 +1,311 @@
+# 2014
+
+1   Ty Cobb
+2 X walter johnson green/red /50 x2
+  X blue/red /50
+3 X christy mathewson green/silver /75
+  X red/red /50
+4 X Honus Wagner green/silver /75
+5   nap lajoie
+6
+7 X Cy Young red/blue /25
+    Cy Young blue/silver /75 (0.95)
+8 X Grover Alexander green/silver /75 (0.74)
+  X red/blue /25
+9 X Alexander Cartwright green/silver /75
+10 X Eddie Collins blue/gold /5
+   X green/red /50
+11 X lou gehrig green/red /50
+12 X willie keeler blue/red /50
+   X green/silver /75
+13 X george sisler green/red /50
+14 X rogers hornsby red/red /50
+15 X frank chance green/silver /75
+   X red/green /10
+16 X Evers blue/red /50
+   X Evers blue/silver /75
+   X Evers blue/red /50 (0.81)
+     Evers red/silver /75 (0.89)
+17   frankie frisch
+18   lefty grove
+19 X hubbell blue/red /50
+   X hubbell blue/silver /75 (0.88)
+20   Pennock
+21 X traynor blue/silver /75
+22 X Mordecai Brown blue/silver /75
+23 X Foxx green/red /50
+24 X mel ott blue/blue /25
+25 X dizzy dean blue/blue /25
+   X dizzy dean blue/silver /75
+26 X rabbit maranville red/red /50
+   X rabbit maranville blue/red /50
+   X rabbit maranville red/silver /75 (0.73)
+   X rabbit maranville blue/silver /75 (0.85)
+27 X bill terry blue/silver /75 (0.89)
+   X red/blue /25
+28   Dimaggio
+29   Zack Wheat red/silver /75 (0.90)
+   X Zack Wheat red/red (0.81)
+30   Feller green/silver /75 (0.95)
+31 X jackie robinson blue/blue /25
+   X blue/red /50
+   X red/red /50
+32   Roush green/silver /75 (0.95)
+   X Roush blue/silver /75 (0.82) x2
+33 X Grimes green/silver /75 (0.83)
+   X green/red /50
+34 X miller huggins red/silver /75
+   X blue/silver /75
+35 X casey stengal red/red /50
+36 X campanella green/red /50
+     campanella blue/silver /75 (0.85)
+37 X musial red/silver /75
+   X blue/silver /75
+38   Bancroft green/silver /75 (0.89)
+   X green/green /10
+   X Red/blue /25
+     red/silver /75 (0.82)
+   X blue/silver /75
+39 X Rube Marquard blue/red /50
+40   Paige
+41 X Yogi Berra red/silver /75 (1.00)
+42 X josh gibson green/red /50 x2
+43 X Early Wynn blue/silver /75 (0.68)
+   X red/silver /75
+44   Clemente
+45 X Spahn green/silver (0.85)
+   X red/silver /75
+46 X jim bottomley green/silver /75
+47   Whitey Ford
+48 X Ernie banks green/silver /75
+49 X Eddie Mathews blue/blue /25
+50 X hack wilson red/red /50
+   X hack wilson blue/silver /75
+   X hack wilson blue/red /50
+   X hack wilson blue/blue /25
+   X Hack Wilson green/silver /75
+51 X Kaline red/silver /75
+52 X Duke Snider blue/silver /75 (0.85) x2
+53   Bob Gibson
+54   Frank Robinson
+55   Marichal green/silver /75 (0.89)
+56   Brooks Robinson
+57 X drysdale green/silver /75
+     drysdale red/silver /75 (0.82)
+58 X rick ferrell red/red /50
+59   Killebrew
+60 X PeeWee Reese red/silver /75
+61 X slaughter red/red /50
+   X blue/silver /75
+62   Arky Vaughan
+63 X mccovey red/red /50
+   X McCovey green/red /50
+64 X Catfish Hunter blue/silver /75
+   X blue/red /50 x2
+   X red/silver
+65 X johnny Bench blue/red /50
+66   Yaz
+67 X Joe Morgan green/silver /75
+   X red/silver /75
+68 X Jim Palmer green/silver /75 (0.74)
+   X red/red /50
+   X blue/silver /75
+69   Rod Carew
+70 X lazzeri red/red /50
+   X lazzeri blue/silver /75 (0.79)
+71 X Newhouser green/silver /75
+     red/silver /75 (0.81)
+72 X seaver blue/gold /5
+   X blue/green /10
+73
+74 X steve carlton blue/red /50
+     steve carlton blue/silver /75 (0.93)
+   X green/silver /75
+75 X Durocher red/red /50
+   X Durocher blue/green /10
+76 X Rizzuto red/silver /75 (0.81)
+   X green/silver /75
+   X green/blue /25
+77   Ashburn
+78   Schmidt
+79 X Doby green/silver (0.74)
+80 X george brett red/red /50
+   X green/red /50
+   X green/silver
+   X blue/blue /25
+81 X cepeda red/green /10
+     cepeda blue/silver /75 (0.99)
+82   Nolan Ryan
+83 X yount blue/silver /75 x2
+84 X fisk green/red /50
+   X blue/blue /25
+85 X ozzie smith red/red /50
+   X green/silver /75
+86 X Murray red/silver /75 (0.74)
+87 X Paul Molitor green/silver /75 (0.68)
+   X blue/silver /75
+88 X Boggs green/blue /25
+89 X Sandberg blue/silver /75
+90   Gwynn
+91 X Ripken blue/red /50
+92 X Henderson red/silver /75
+93   Jim Rice
+94 X Dawson red/blue /25
+95   Alomar
+96 X blyleven red/red /50
+97 X Larkin green/blue /25
+98 X Glavine blue/red /50
+99 X Maddux red/silver /75
+100 X thomas red/silver /75
+    X blue/silver /75
+
+## elite
+1 X Bob Gibson gold /25
+4 X Yaz
+5 X Berra
+6 X o. smith
+8 X Whitey Ford
+10 X Ernie Banks
+11 X Joe Morgan
+12 X Frank Robinson
+14 X Frisch
+16 X Sisler
+19 X McCovey
+25 X miller huggins
+26 X Nap Lajoie
+27 X Nolan Ryan
+29 X Henderson gold /25
+31 X Hunter
+38 X tris speaker
+40 X Keeler
+
+## crusade
+3 X Mathewson orange /25
+4 X Wagner red /75
+5 X Lajoie red /75
+6 X Speaker blue
+  X red
+9 X Cartwright purple /50
+18 X Lefty Grove red /75
+20 X Pennock orange /25
+   X red /76
+21 X traynor red /75
+23 X Foxx red
+24 X ott orange die cut /25
+25 X Dizzy Dean red /75
+26 X Maranville purple /50
+27 X Terry purple /50
+28 X dimaggio blue
+29 X Zack Wheat gold die cut /10
+   X purple /50 (0.85)
+32 X Roush blue
+34 X Huggins red /75
+36 X Campanella red /75
+39 X Marquard blue
+42 X Josh Gibson blue
+43 X Wynn orange die cut /25
+46 X Bottomly orange die cut /25
+   X Purple /50
+47 X Ford red /75
+48 X Banks blue
+50 X Hack Wilson red /75
+53 X Bob Gibson blue
+   x purple /50
+54 X F. Robinson gold /10
+   X blue
+55 X Marichal purple /50
+56 X Brooks Robinson red /75
+57 X Drysdale red /75
+58 X Ferrell purple /50 (0.95) +blue +red
+60 X Reese red /75
+61 X Slaughter red /75
+63 X McCovey blue
+64 X Hunter red
+66 X Yaz red /75
+69 X Carew /75
+70 X lazzeri red /75
+72 X Seaver red /75
+   X blue
+73 X R. Jackson blue
+74 X Carlton red /75
+75 X leo durocher blue
+76 X Rizzuto red /75
+78 X Schmidt blue
+80 X Brett blue
+82 X Nolan Ryan red /75
+86 X Murray purple /50
+89 X sandberg blue
+93 X Rice red /75
+95 X Alomar red /75
+97 X larkin blue
+98 X Glavine orange die cut /25
+   X blue
+100 X Thomas blue
+
+## dominators
+8 X Eddie Collins
+10 X Frank Chance gold /25
+14 X Wagner
+19 X Evers
+20 X Josh Gibson
+21 X Gehrig
+22 X mel ott
+25 X Lajoie
+26 X N. Ryan
+24 X Huggins
+28 X Henderson Gold /25
+30 X Carew
+31 X Hornsby
+32 X Campanella
+33 X sandberg gold /25
+39 X Cobb
+
+## diamond kings
+1 X Ty Cobb red /75
+4 X Wagner gold /10
+8 X Bottomley red /75
+11 X gehrig red /75 +base
+13 X Sisler red /75
+15 X Chance
+25 X Dizzy Dean
+27 X Terry
+31 X J. Robinson red /75
+33 X Grimes
+36 X Campanella red /75
+38 X Bancroft blue /50
+40 X Paige red /75
+44 X Clemente blue /50
+45 X Spahn
+47 X Whitey Ford red /75
+48 X banks
+49 X Eddie Mathews red /75
+52 X snider
+53 X Bob Gibson red /75
+54 X F. Robinson blue /50
+60 X Reese red /75
+61 X Slaughter red /75
+66 X Yaz red /75
+69 X Palmer red /75
+70 X lazzeri red /75
+72 X seaver red /75 + base
+74 X Carlton red /75
+75 X Durocher red /75
+77 X Ashburn red /75
+79 X larry doby
+80 X Brett
+85 X o. smith
+87 X Molitor red /75
+88 X Boggs red /75 +base
+92 X Henderson
+93 X Rice red /75 +base
+94 X andre dawson blue /50 + red /75
+95 X alomar
+96 X blyleven red /75 +base
+97 X Larkin red /75
+100 X thomas blue /50
+
+# gem cards
+
+8 X Eddie Collins sapphire /15
+31 X Tris Speaker emerald /10
+63 X Evers sapphire /15

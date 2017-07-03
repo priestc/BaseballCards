@@ -1,0 +1,233 @@
+# 2012
+
+base | red | yellow | number | player
+----|-----|--------|---------|-------
+X | |X| 1 | ty cobb
+X | |X| 2 | walter johnson
+X | |X| 3 | honus wagner
+X | | | 4 | christy matthewson
+  | | | 5 | Nap Lajoie
+X | |X| 6 | lou gehrig
+X | | | 7 | ban johnson
+X | |X| 8 | connie Mack
+  | | | 9 | Cartwright
+X | | | 10 | ozzie smith
+X | |X| 11 | buck ewing
+  | |X| 12 | Sutton
+  | |X| 13 | Keeler
+X | | | 14 | nolan ryan
+  | |X| 15 | Al Spalding
+X | |X| 16 | rod carew
+X | | | 17 | eddie collins
+  | | | 18 | Clemente
+X | |X| 19 | molitor
+X | |X| 20 | george sisler
+X | |X| 21 | charles cominsky
+X | | | 22 | rogers hornsby
+X | | | 23 | larkin
+X | | | 24 | george brett
+X | | | 25 | fred clarke
+X | |X| 26 | ed delahanty
+X | | | 27 | hugh duffy
+X | | | 28 | king kelly
+X | |X| 29 | Marquard +red
+X | | | 30 | santo
+X | |X| 31 | heilmann
+X | | | 32 | gary carter
+X | | | 33 | tinker +red
+X | | | 34 | evers
+X | |X| 35 | chance
+X | |X| 36 | grove
+X | |X| 37 | frisch
+X | | | 38 | mccarthy +blue
+X | |X| 39 | mike schmidt
+- [X] 40 mazeroski +gold
+- [X] 41 mickey cochrane +red +gold
+- [X] 42 eckersley +gold
+- [X] 43 murray
+- [X] 44 Ryne Sandberg
+- [X] 45 fisk
+- [X] 46 hubbell
+- [X] 47 pennock
+- [X] 48 traynor +gold
+- [X] 49 gehringer +gold
+- [X] 50 mel ott (+gold)
+- [X] 51 Jimmie foxx +gold
+- [X] 52 paul waner +gold
+- [X] 53 lloyd waner +gold
+- [X] 54 bruce sutter +gold
+- [X] 55 bill dickey
+- [X] 56 Alomar (+G)
+- [ ] 57 Neikro
+- [X] 58 ted williams +gold
+- [X] 59 ashburn +gold
+- [X] 60 Ray Schalk
+- [X] 61 perry +gold
+- [X] 62 rabbit maranville
+- [X] 63 Sam Crawford +gold
+- [X] 64 rice
+- [X] 65 zack wheat
+- [X] 66 wade boggs (+G)
+- [X] 67 Dave winfield
+- [X] 68 joe cronin
+- [X] 69 feller +red
+- [X] 70 Billy Hamilton +gold
+- [X] 71 Hank Greenberg
+- [ ] 72 Jackie Robinson (+G)
+- [X] 73 huggins +gold
+- [X] 74 appling
+- [X] 75 Paige +gold
+- [X] 76 lemon +gold
+- [X] 77 doerr
+- [X] 78 berra (+G)
+- [X] 79 early wynn
+- [X] 80 carl Yaz (+G)
+- [X] 81 f. robinson +gold
+- [X] 82 LaSorda +gold
+- [X] 83 grimes +gold
+- [X] 84 Andre Dawson (+G)
+- [X] 85 snider +gold
+- [ ] 86 Whitey Ford
+- [X] 87 herzog +gold +red +blue +green
+- [X] 88 medwick
+- [X] 89 perez +red
+- [X] 90 boudreau
+- [X] 91 seaver +gold
+- [X] 92 musial +gold
+- [X] 93 sparky anderson +gold
+- [X] 94 jim bunning
+- [X] 95 newhouser +gold
+- [ ] 96 Rizzuto
+- [X] 97 Al Barlick
+- [X] 98 Kiner +gold
+- [X] 99 mathews +gold
+- [X] 100 kell +gold
+- [X] 101 slaughter +gold
+- [X] 102 kaline
+- [X] 103 mize +gold
+- [X] 104 Bob Gibson +gold
+- [X] 105 joss
+- [X] 106 yount +gold
+- [X] 107 rollie fingers +gold
+- [ ] 108 Campanella +gold
+- [X] 109 blyleven
+- [X] 110 gwynn (+G)
+- [X] 111 f. robinson
+- [X] 112 w. alston
+- [ ] 113 DiMaggio +gold
+- [X] 114 spahn +gold
+- [X] 115 banks +gold
+- [X] 116 earl weaver
+- [X] 117 steve carlton +gold
+- [X] 118 Cepeda
+- [X] 119 al lopez +gold
+- [X] 120 henderson
+- [X] 121 hooper +gold
+- [X] 122 goose goslin +gold
+- [X] 123 Nellie Fox
+- [X] 124 palmer
+- [X] 125 irvin
+- [X] 126 buck leonard
+- [X] 127 gossage
+- [X] 128 hack wilson
+- [X] 129 sam thompson +gold
+- [X] 130 mccovey +gold
+- [X] 131 ripken
+- [X] 132 ralph kiner
+- [X] 133 Arky Vaughan +gold
+- [X] 134 marichal
+- [X] 135 B. robinson
+- [X] 136 aparicio +gold
+- [X] 137 ferrell
+- [X] 138 Bench +gold
+- [X] 139 killebrew +gold
+- [X] 140 pee wee reese +gold
+- [X] 141 wilhelm +gold
+- [X] 142 brock (+G)
+- [X] 143 Catfish Hunter
+- [X] 144 red schoendienst +gold
+- [X] 145 morgan
+- [X] 146 stargell (+G)
+- [X] 147 reggie Jackson
+- [X] 148 jenkins +gold
+- [X] 149 Lazzeri
+- [X] 150 billy williams +gold
+
+## SP
+- [ ] [ ] 151 Lou Gehrig
+- [ ] [ ] 152 Tris Speaker
+- [ ] [ ] 153 Christy Mathewson
+- [X] [ ] 154 Home Run Baker
+- [X] [G] 155 Dizzy Dean
+- [X] [G] 156 Al Simmons
+- [ ] [ ] 157 Cy Young
+- [X] [G] 158 Jim Bottomly
+- [X] [ ] 159 Honus Wagner
+- [ ] [ ] 160 Walter Johnson
+- [ ] [G] 161 Mel ott
+- [X] [G] 162 Jesse Burkett
+- [X] [G] 163 Cap Anson
+- [X] [ ] 164 nap lajoie
+- [X] [G] 165 Edd Roush
+- [ ] [ ] 166 Rogers Hornsby
+- [X] [ ] 167 Hank Greenberg
+- [X] [G] 168 plank
+- [ ] [ ] 169 Jimmie Foxx
+- [ ] [ ] 170 Oscar Charleston
+
+## museum pieces
+
+- [X] 1 ty cobb
+- [X] 19 paul waner
+
+## field generals
+1 X bench
+10 X bill dickey
+
+## high praise
+4 X berra
+6 X Brock
+11 X reggie jackson
+19 X Brooks Robinson
+
+## credentials
+11 X frank robinson
+18 X larkin
+
+## famous moments
+11 X gwynn
+14 X ted williams
+
+## wood
+8 X joe dimaggio
+
+## induction
+10 X palmer
+11 X dimaggio
+18 X ashburn
+
+
+## Bronze History
+1 X grover alexander
+3 X Baker
+7 X Bender
+12 X Brown
+14 X Cartwright
+16 X Chandler
+19 X clarke
+20 X Clarkson
+25 X Connor
+26 X cooper
+32 X Flick
+34 X Frisch
+40 X heilmann
+48 X Kelley
+51 X Lajoie
+67 X Paige
+70 X posey
+75 X Schalk
+76 X Sisler
+79 X Stearns
+80 X thompson
+92 X Ward
+95 X Cummings

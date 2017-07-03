@@ -1,0 +1,56 @@
+1   Sandy Koufax
+2   Derek Jeter
+3   Jimmie Foxx
+7   Mickey Mantle
+10   Jim Palmer
+13   Cal Ripken, Jr.
+16   Walter Johnson
+27   George Sisler
+33   Tony Perez
+40   Stan Musial
+42   Jackie Robinson
+48 p Carlton Fisk
+50   Lou Gehrig
+52   Andre Dawson
+53   Mike Schmidt
+55   Nolan Ryan
+57   Willie McCovey
+59   Duke Snider
+60   Reggie Jackson
+64   Joe Morgan
+74   Brooks Robinson
+76 p  Roberto Alomar
+85   Al Kaline
+89 p  Eddie Murray
+90   Tris Speaker
+94   John Smoltz
+95   Johnny Mize
+99   Honus Wagner
+100   Babe Ruth
+105   Ty Cobb
+106   Cy Young
+108   Hank Aaron
+115   Chipper Jones
+120   Ichiro
+137   Johnny Bench
+141 p  Ozzie Smith
+144   Roy Campanella
+154   Fergie Jenkins
+155   Bob Gibson
+158   Monte Irvin
+161 p  Luis Aparicio
+170   Tom Seaver
+171   Ryne Sandberg
+178   Albert Pujols
+181   Frank Thomas
+182   Frank Robinson
+186   Mel Ott
+190 p  Bert Blyleven
+191   Johnny Bench All-RC
+192   Willie McCovey All-RC
+193   Joe Morgan All-RC
+194   Cal Ripken, Jr. All-RC
+195   Chipper Jones All-RC
+196   Ichiro All-RC
+197   Andre Dawson All-RC
+200   Tom Seaver All-RC
