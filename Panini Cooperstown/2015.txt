@@ -1,11 +1,18 @@
 
 # 2015
+1 X Kaline red /35
+  X blue /25 (induction)
 6 X Larkin red/35
+  X Blue
 8 X Bill Dickey
 14 X Doerr
+15 X Brooks Robinson blue /25
 16 X Sutter gold /5 +base
 20 X Gehringer
-28 X Duke Snider blue /25 +base
+21 X Biggio blue /25
+23 X Eckersley green /10
+28 X Duke Snider blue /25
+   X base
 30 X Mathews red /35
 34 X F. Robinson
 35 X Thomas blue /25
@@ -14,32 +21,48 @@
 41 X George Kelly
 45 X Killebrew
 46 X Pennock red /35
-47 X honus wagner red /35 +base
+47 X honus wagner red /35
+   X base
 49 X Bottomly
 50 X Bunning red /35
 52 X Jim Rice red /35
+57 X Smoltz blue /25
+   X blue (induction)
 59 X Marichal blue /25
+   X Base induction
+60 X Lefty Gomez
 61 X leo Durocher
-62 X Brock +blue /25 +base
+62 X Brock +blue /25
+   X base
 67 X Monte Irvin red /35
 71 X Gillick
 73 X Pedro Martinez (induction+base)
 74 X Reese (induction)
 75 X Niekro
 76 X Randy Johnson (induction)
+   X Blue /10
 78 X R. Jackson (ind)
-83 X Carew blue /25 +base
+83 X Carew blue /25
+   X base
+   X green /10 induction
 87 X sam crawford blue /25
 88 X Musial
 89 X Carlton
+91 X Glavine induction
 92 X Lasorda (base+induction)
 93 X tony gwynn
 94 X LaRussa blue /25
+95 X Perez
 98 X Whitey Ford blue /25
-100 X Berra blue /25 +induction
+100 X Berra blue /25
+    X base induction
+    X base
 
 #Names of the game
+22 X Bench
 25 X Gehrig
+38 X Sam Crawford
+
 
 ## crown royal
 2 X al simmons
@@ -59,6 +82,7 @@
 4 X Ford
 5 X Gehrenger
 6 X Greenburg
+7 X Musial
 8 X J. Robinson
 9 X doby
 10 X Dickey
@@ -71,12 +95,18 @@
 7 X Gossage
 10 X Mazeroski
 13 X Doug Harvey
+21 X Sandberg
 23 X Sutter
 24 X Sutton
+25 X Frank Thomas
 
 ## golf classic
 7 X fingers
+39 X Bench/Fingers
 
 ## etched in cooperstown
+2 X Simmons gold /10
 34 X Bottomly
+57 X R. Jackson silver /25
+64 X Crawford refractor /25
 70 X Ty Cobb

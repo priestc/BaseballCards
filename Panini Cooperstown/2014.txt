@@ -20,6 +20,7 @@
 10 X Eddie Collins blue/gold /5
    X green/red /50
 11 X lou gehrig green/red /50
+   X blue/silver /75
 12 X willie keeler blue/red /50
    X green/silver /75
    X red/silver
@@ -76,7 +77,7 @@
 38   Bancroft green/silver /75 (0.89)
    X green/green /10
    X Red/blue /25
-     red/silver /75 (0.82)
+   X red/silver /75
    X blue/silver /75
 39 X Rube Marquard blue/red /50
    X Marquard green/silver
@@ -136,7 +137,7 @@
    X red/red /50
    X blue/silver /75
    X blue/red
-69   Rod Carew
+69 X Rod Carew red/blue /25
 70 X lazzeri red/red /50
    X lazzeri blue/silver /75 (0.79)
 71 X Newhouser green/silver /75
@@ -158,6 +159,7 @@
 77   Ashburn
 78 X Schmidt red/red
 79 X Doby green/silver (0.74)
+   X blue/red /75
 80 X george brett red/red /50
    X green/red /50
    X green/silver
@@ -197,7 +199,9 @@
     X blue/silver /75
 
 ## elite
-1 X Bob Gibson gold /25
+
+1 X Bob Gibson
+  X gold /25
 4 X Yaz
 5 X Berra
 6 X o. smith
@@ -264,6 +268,7 @@
 36 X Campanella red /75
 38 X Bancroft red
 39 X Marquard blue
+41 X Yogi Berra red
 42 X Josh Gibson blue
    X Red
 43 X Wynn orange die cut /25
@@ -301,6 +306,8 @@
 78 X Schmidt blue
 80 X Brett blue
 81 X Cepeda red
+   X blue
+   X purple
 82 X Nolan Ryan red /75
 84 X Fisk blue
 85 X O. Smith blue
@@ -316,6 +323,7 @@
 ## dominators
 8 X Eddie Collins
 10 X Frank Chance gold /25
+12 X Brett
 14 X Wagner
 15 X J. Robinson
 16 X Foxx
@@ -348,6 +356,7 @@
 13 X Sisler red /75
 15 X Chance
    X blue
+   X red
 19 X Hubbell
 22 X Brown blue
 23 X Foxx red
