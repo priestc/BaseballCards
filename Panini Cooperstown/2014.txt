@@ -105,7 +105,7 @@
    X blue/red
 52 X Duke Snider blue/silver /75 (0.85) x2
 53 X Bob Gibson green/red
-54   Frank Robinson
+54 X Frank Robinson green/gold /5 x2
 55   Marichal green/silver /75 (0.89)
    X green/red
    X blue/red
@@ -233,77 +233,124 @@
 40 X Keeler
 
 ## crusade
+2 X Johnson Blue
 3 X Mathewson orange /25
+  X Blue
 4 X Wagner red /75
 5 X Lajoie red /75
   X Blue
 6 X Speaker blue
   X red
+7 X Cy Young Blue
 9 X Cartwright purple /50
   X Blue
+  X Red
 10 X Collins red
+   X Collins Blue
 12 X Keeler red
+   X Keeler Blue
+13 X Sisler blue
+   X Red /75
 15 X Chance red
    X blue
 17 X Frisch red
+   X Blue
 18 X Lefty Grove red /75
    X blue
 19 X Hubbell red
+   X Hubbell Blue
 20 X Pennock orange /25
    X red /76
    X blue
 21 X traynor red /75
+   X Blue
+22 X M. Brown Blue
 23 X Foxx red
+   X Foxx Blue
 24 X ott orange die cut /25
    X blue
 25 X Dizzy Dean red /75
+   X Blue
 26 X Maranville purple /50
+   X Blue
 27 X Terry purple /50
+   X Blue
 28 X dimaggio blue
 29 X Zack Wheat gold die cut /10
    X purple /50 (0.85)
    X Red
+   X Blue
+30 X Feller blue
 32 X Roush blue
+   X Red
+   X Purple
+33 X Grimes blue
 34 X Huggins red /75
+   X Blue
+35 X Stengel Blue
 36 X Campanella red /75
+   X Blue
 38 X Bancroft red
+   X Blue
 39 X Marquard blue
+   X Purple
 41 X Yogi Berra red
 42 X Josh Gibson blue
    X Red
 43 X Wynn orange die cut /25
+   X Wynn Blue
+45 X Spahn Blue
 46 X Bottomly orange die cut /25
    X Purple /50
    X Red
 47 X Ford red /75
+   X Blue
 48 X Banks blue
-49 X Mathews
+49 X Mathews ?
 50 X Hack Wilson red /75
+52 X Snider Blue
 53 X Bob Gibson blue
    x purple /50
 54 X F. Robinson gold /10
    X blue
 55 X Marichal purple /50
 56 X Brooks Robinson red /75
+   X Blue
 57 X Drysdale red /75
    X Blue
-58 X Ferrell purple /50 (0.95) +blue +red
+58 X Ferrell purple /50 (0.95)
+   X blue
+   X red
 60 X Reese red /75
 61 X Slaughter red /75
+62 X Arky Vaughan Blue
+   X Red
 63 X McCovey blue
 64 X Hunter red
+   X Blue
+65 X Bench Blue
 66 X Yaz red /75
-69 X Carew /75
+67 X Morgan blue
+69 X Carew red /75
+   X Blue
 70 X lazzeri red /75
+   X Blue
 71 X Newhouser blue
+   X Purple
 72 X Seaver red /75
    X blue
 73 X R. Jackson blue
    X red
 74 X Carlton red /75
+   X Blue
 75 X leo durocher blue
+   X Red
+   X Purple
 76 X Rizzuto red /75
+77 X Ashburn Blue
 78 X Schmidt blue
+79 X Doby Blue
+   X Red
 80 X Brett blue
 81 X Cepeda red
    X blue
@@ -312,12 +359,17 @@
 84 X Fisk blue
 85 X O. Smith blue
 86 X Murray purple /50
+88 X Boggs blue
 89 X sandberg blue
+90 X Gwynn blue
 93 X Rice red /75
+   X Rice Blue
 95 X Alomar red /75
+96 X Blyleven Blue
 97 X larkin blue
 98 X Glavine orange die cut /25
    X blue
+99 X Maddux Blue
 100 X Thomas blue
 
 ## dominators
