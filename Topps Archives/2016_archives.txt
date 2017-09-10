@@ -6,7 +6,7 @@
 19 X  sutton
 20 X  marichal
 24 x  blyleven
-35    rice
+35 x  rice
 41 X  sandberg
 45 X  smoltz
 48 X  b. robinson
@@ -29,8 +29,8 @@
 112 x  alomar
 115 x  early wynn
 117 x  biggio
-118    Mazeroski
-122    fisk
+118 x  Mazeroski
+122 x  fisk
 127 x  molitor
 128 x  griffey
 130 x  seaver
@@ -50,7 +50,7 @@
 185 x  boggs
 189 x  ford
 190 x  gehrig
-197    r. jackson
+197 x  r. jackson
 199 xB  e. slaughter
 
 1991 design

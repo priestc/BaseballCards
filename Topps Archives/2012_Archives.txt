@@ -20,9 +20,9 @@
 1980 design
 ===========
 
-109 X hunter
+109 XG hunter
 117 X brett
-138   dimaggio
+138 X dimaggio
 142 X o. smith
 
 1984 design
@@ -34,3 +34,28 @@
 189 X ruth
 191 X berra
 194 X carter
+
+Cloth Patches
+=============
+
+77C-CH X Hunter
+77C-JM X Morgan
+77C-WS X Stargell
+77C-SC X Carlton
+77C-RJ X Jackson
+77C-RC X Carew
+77C-GB X Brett
+
+Reprint Inserts
+===============
+
+62  X Irvin '53
+337 X Morgan '67
+380 X Stargell '81
+530 X Winfield '78
+660 X Gwynn '85
+
+1968 3D
+=======
+
+ALKA X Kaline

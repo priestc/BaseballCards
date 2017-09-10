@@ -1,25 +1,27 @@
+D = Day Glo
+
 1972 design
 ===========
 
 1 X ruth
 2 X carter
-16   ripken
-28   schmidt
+16 X ripken
+28 X schmidt
 32 X boggs
-48   sandberg
+48 X sandberg
 
 1982 design
 ===========
 
 59 X morgan
 69 X mathews
-70   o. smith
+70 X o. smith
 72 X killebrew
 82 X seaver
 85 X perez
 86 X j. robinson
-92   griffey
-95   r. jackson
+92 X griffey
+95 XD r. jackson
 
 1985 design
 ===========
@@ -29,7 +31,7 @@
 124 X brett
 142 X stargell
 144 X molitor
-146   murray
+146 XG murray
 
 1990 design
 ===========

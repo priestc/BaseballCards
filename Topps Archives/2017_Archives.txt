@@ -19,10 +19,10 @@ G = gray back
 60 P    Catfish Hunter
 61 x    Gary Carter
 70 x    Ichiro
-73      Bobby Doerr
+73 x    Bobby Doerr
 75 B    Ty Cobb
 82 x    Mike Piazza
-83      Joe Morgan
+83 x    Joe Morgan
 96 x    Bruce Sutter
 99 x    Lou Gehrig
 
@@ -38,7 +38,7 @@ K = blackless
 125 x    Jackie Robinson
 128 xB   Roberto Alomar
 134 xK   Whitey Ford
-139      Phil Rizzuto
+139 x    Phil Rizzuto
 140 xP   Lou Brock
 148 xB   Harmon Killebrew
 153 x    Frank Thomas
@@ -50,11 +50,11 @@ K = blackless
 179 xR   Early Wynn
 181 x    Eddie Murray
 185 x    Ivan Rodriguez
-186      Monte Irvin
+186 x    Monte Irvin
 188 x    Ozzie Smith
-191 P    Sparky Anderson
+191 xP    Sparky Anderson
 192 x    Ryne Sandberg
-197 x    Jimmie Foxx
+197 xP    Jimmie Foxx
 
 1992 Design
 ===========
@@ -67,7 +67,7 @@ W = Gold Winner
 219 x   Jim Bunning
 225 x   Babe Ruth
 228 xP  Bob Lemon
-232 x   Lou Boudreau
+232 xP   Lou Boudreau
 248 xW  Andre Dawson
 249 x   Tom Glavine
 254 x   George Brett
@@ -85,10 +85,10 @@ W = Gold Winner
 Gimmicks
 ========
 
-50   Hank Aaron
-75 X Ty Cobb
-82   Mike Piaza
-125   Jackie Robinson
+50    Hank Aaron
+75 X  Ty Cobb
+82    Mike Piaza
+125 X Jackie Robinson
 134   Whitey Ford
 175   Sandy Koufax
 201   Roberto Clemente

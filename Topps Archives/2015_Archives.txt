@@ -5,7 +5,7 @@ S = silver
 G = Gold
 
 14 X  wade biggs
-24    ripken
+24 X  ripken
 30 X  fisk
 32 X  yount
 35 X  murray
@@ -13,9 +13,9 @@ G = Gold
 49 X  stargell
 50 X  griffey
 53 X  alomar
-54    o. smith
+54 X  o. smith
 58 X  sutter
-62    roberts
+62 X  roberts
 63 X  carew
 75 X  brett
 78 X  carter
@@ -24,16 +24,16 @@ G = Gold
 1976 design
 ===========
 
-105   dimaggio
-107   mccovey
+105 X dimaggio
+107 X mccovey
 115 X  larkin
-124   rizzuto
+124 X rizzuto
 125 X  ruth
-128   kiner
+128 X kiner
 133 X  eckersley
-134   snider
+134 X snider
 150 X  koufax
-152    mathews
+152 X  mathews
 153 X  thomas
 154 X  feller
 165 X cobb
@@ -53,24 +53,24 @@ G = Gold
 202 X bench
 207 X  jenkins
 209 X seaaver
-213   b. robinson
-214    cepeda
-217   gehrig
-218    bunning
+213 X b. robinson
+214 X  cepeda
+217 X gehrig
+218 X  bunning
 224 X molitor
 227 X  r. jackson
 237 X rice
-248   hunter
+248 X hunter
 252 X  aparicio
 253 X  ford
-264    morgan
+264 X  morgan
 271 X brock
 275 X t. williams
 283 X schmidt
 284 X palmer
 285 X perez
 289 X mazeroski
-300   mays
+300 X mays
 
 SP
 ==
