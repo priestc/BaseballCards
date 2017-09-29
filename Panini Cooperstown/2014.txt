@@ -285,6 +285,7 @@
 ## crusade
 ==========
 
+1   Cobb
 2 X Johnson Blue
 3 X Mathewson orange /25
   X Blue
@@ -294,6 +295,7 @@
 6 X Speaker blue
   X red
 7 X Cy Young Blue
+8
 9 X Cartwright purple /50
   X Blue
   X Red
@@ -336,6 +338,7 @@
    X Red
    X Blue
 30 X Feller blue
+31
 32 X Roush blue
    X Red
    X Purple
@@ -345,16 +348,19 @@
 35 X Stengel Blue
 36 X Campanella red /75
    X Blue
+37
 38 X Bancroft red
    X Blue
 39 X Marquard blue
    X Purple
+40
 41 X Yogi Berra red
    X Blue
 42 X Josh Gibson blue
    X Red
 43 X Wynn orange die cut /25
    X Wynn Blue
+44
 45 X Spahn Blue
 46 X Bottomly orange die cut /25
    X Purple /50
@@ -365,6 +371,7 @@
 49 X Mathews ?
 50 X Hack Wilson red /75
    X Blue
+51
 52 X Snider Blue
 53 X Bob Gibson blue
    x purple /50
@@ -392,6 +399,7 @@
 66 X Yaz red /75
    X Blue
 67 X Morgan blue
+68
 69 X Carew red /75
    X Blue
 70 X lazzeri red /75
@@ -422,11 +430,15 @@
 85 X O. Smith blue
 86 X Murray purple /50
    X blue
+87
 88 X Boggs blue
 89 X sandberg blue
 90 X Gwynn blue
+91
+92
 93 X Rice red /75
    X Rice Blue
+94
 95 X Alomar red /75
    X blue
 96 X Blyleven Blue
@@ -492,7 +504,8 @@
   X base
 2 X Walter Johnson
 3 X Mathewson
-4 X Wagner gold /10
+4   Wagner
+  X gold /10
 5 X Lajoie
   X Red
 6 X Speaker
@@ -506,7 +519,7 @@
 12 X Keeler
 13 X Sisler
    X red /75
-14
+14   Hornsby
 15 X Chance
    X blue
    X red
@@ -521,9 +534,9 @@
 23 X Foxx
    X red
    X blue
-24
+24   Mell Ott
 25 X Dizzy Dean
-26
+26   Maranville
 27 X Terry
    X red
 28 X Dimaggio
@@ -534,11 +547,11 @@
 32 X Roush red
    X base
 33 X Grimes
-34
+34   Huggins
 35 X Stengal base
 36 X Campanella
    X red /75
-37
+37   Stan Musial
 38 X Bancroft
    X blue /50
 39 X Marquard red
@@ -572,7 +585,7 @@
    X Blue
 54 X F. Robinson blue /50
 55 X Marichal
-56
+56   Brooks Robinson
 57 X Drysdale red
    X Base
 58 X Ferrell
@@ -595,7 +608,7 @@
 69 X Carew
 70 X lazzeri
    X red /75
-71
+71   Newhouser
 72 X seaver red /75
    X base
 73 X Reggie Jackson
@@ -609,8 +622,8 @@
 78 X Schmidt
 79 X larry doby
 80 X Brett
-81
-82
+81   Cepeda
+82   Nolan Ryan
 83 X yount
    X blue
 84 X Fisk
@@ -624,14 +637,17 @@
 89 X Sandberg
 90 X Gwynn
    X blue
-91
+91   Ripken
 92 X Henderson
 93 X Rice red /75
    X base
    X blue
-94 X andre dawson blue /50 + red /75
+94   andre dawson base
+   X blue /50
+   X red /75
 95 X alomar
-96 X blyleven red /75 +base
+96 X blyleven base
+   X red /75
 97 X Larkin red /75
 98 X Glavine base
    X blue
@@ -644,3 +660,17 @@
 8 X Eddie Collins sapphire /15
 31 X Tris Speaker emerald /10
 63 X Evers sapphire /15
+
+
+
+Need list
+=========
+
+diamond kings base: 4, 10, 14, 22, 24, 26, 29, 34, 37, 44, 46, 47, 49, 54, 56, 65,
+67, 71, 74, 75, 81, 82, 87, 91, 94, 97, 99
+
+crusade blue: 1, 4, 8, 31, 37, 40, 44, 46, 51, 55, 60, 68, 76, 82, 87, 91, 92, 94
+
+red/silver: 98, 97, 94, 91, 90, 89, 87, 84, 83, 82, 81, 80, 79, 78, 74, 73, 71, 70
+68, 66, 6562, 61, 59, 57, 56, 54,53, 52, 50, 49, 48, 47, 46, 44, 42, 39, 36, 35, 34
+33, 32, 31, 30, 29, 28, 27, 25, 23, 22, 19, 18, 16, 15, 14, 11, 10, 8, 7, 6, 5, 4, 3
