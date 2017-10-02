@@ -111,6 +111,7 @@
 47 X Whitey Ford green/silver
    X green/red
    X red/red
+   X red/blue
 48 X Ernie banks green/silver /75
 49 X Eddie Mathews blue/blue /25
 50 X hack wilson red/red /50
@@ -623,7 +624,7 @@
 79 X larry doby
 80 X Brett
 81   Cepeda
-82   Nolan Ryan
+82 X Nolan Ryan
 83 X yount
    X blue
 84 X Fisk
@@ -667,7 +668,7 @@ Need list
 =========
 
 diamond kings base: 4, 10, 14, 22, 24, 26, 29, 34, 37, 44, 46, 47, 49, 54, 56, 65,
-67, 71, 74, 75, 81, 82, 87, 91, 94, 97, 99
+67, 71, 74, 75, 81, 87, 91, 94, 97, 99
 
 crusade blue: 1, 4, 8, 31, 37, 40, 44, 46, 51, 55, 60, 68, 76, 82, 87, 91, 92, 94
 
