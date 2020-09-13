@@ -1,0 +1,84 @@
+1     Jeter
+1b    Jeter (w/ glove)
+7   x Alomar
+15    FIsk
+23  x Lemon
+24    Ted Williams
+28    Reggie Jackson
+29  x Guerrero
+37  x Sutter
+39  x Reese
+43    Gary Carter
+44    Jackie Robinson
+45    Orlando Cepeda
+52    Red Schoendienst
+60  x Murray
+61    Jim Thome
+62  x Grove
+66  x Carew
+67  x Gossage
+76  x Doby
+78    Hank Aaron
+87    Randy Johnson
+88  x Jones
+89  x Ford
+95  x Wilhelm
+97  x Gibson
+102   Mel Ott
+106   Boudreau
+108   Catfish Hunter
+114   Wynn
+121   Gwynn
+122 x Koufax
+125   Rivera
+127   Bunning
+128   Griffey Jr.
+130   Ryan
+136 x Cobb
+149 x Thomas
+150 x Ichiro
+151   Kaline
+153 x Bagwell
+158   Ashburn
+164   Ivan Rodriguez
+165 x Mathewson
+166 x Stargell
+173   Sandberg
+176 x Feller
+182   Enos Slaughter
+186 x Kell
+189 x Rizzuto
+190 x Newhouser
+195   Tony Perez
+201   Babe Ruth
+201b  Babe Ruth (two bats)
+206   Carl Yaz
+210 x Brett
+212   Robin Roberts
+215   Tris Speaker
+218 x Banks
+219   Don Sutton
+220   Tim Raines
+226 x Carlton
+227   Rickey Henderson
+231   Kiner
+233   Dizzy Dean
+234   Monte Irvin
+235 x Hornsby
+237   Fergie Jenkins
+239   McCovey
+243   Juan Marichal
+247   Bobby Doerr
+249   Johnny Mize
+250 x Clemente
+255   Eddie Matthews
+258   John Smoltz
+262	 	Honus Wagner
+266	 	Harmon Killebrew
+272	 	Mike Piazza
+274	 	Ozzie Smith
+277	 	Warren Spahn
+281	 	Lou Gehrig
+295	 	Robin Yount
+311	 	Derek Jeter HL, SP
+315	 	Ichiro HL, SP
