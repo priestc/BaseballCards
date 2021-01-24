@@ -72,7 +72,7 @@
 249   Johnny Mize
 250 x Clemente
 255   Eddie Matthews
-258   John Smoltz
+258 x John Smoltz
 262	 	Honus Wagner
 266	 	Harmon Killebrew
 272	 	Mike Piazza

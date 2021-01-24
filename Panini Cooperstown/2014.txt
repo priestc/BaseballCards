@@ -49,6 +49,7 @@
 20 X Pennock blue/red
    X red/silver
    X blue/silver
+   X green/silver
 21 X traynor blue/silver /75
    X red/silver
 22 X Mordecai Brown blue/silver /75
@@ -130,7 +131,7 @@
    X blue/red
    X blue/silver
    X red/silver
-56   Brooks Robinson
+56 X Brooks Robinson green/silver
 57 X drysdale green/silver /75
      drysdale red/silver /75 (0.82)
 58 X rick ferrell red/red /50
@@ -166,6 +167,7 @@
 69 X Rod Carew red/blue /25
    X red/silver
    X blue/silver
+   X green/silver
 70 X lazzeri red/red /50
    X lazzeri blue/silver /75 (0.79)
    X green/silver
