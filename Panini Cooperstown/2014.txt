@@ -298,7 +298,7 @@
 6 X Speaker blue
   X red
 7 X Cy Young Blue
-8
+8 X Grover Alexander Blue
 9 X Cartwright purple /50
   X Blue
   X Red
@@ -341,7 +341,7 @@
    X Red
    X Blue
 30 X Feller blue
-31
+31 X Jackie Robinson Blue
 32 X Roush blue
    X Red
    X Purple
@@ -351,12 +351,12 @@
 35 X Stengel Blue
 36 X Campanella red /75
    X Blue
-37
+37 X Stan Musial Blue
 38 X Bancroft red
    X Blue
 39 X Marquard blue
    X Purple
-40
+40 X Satchel Paige Blue
 41 X Yogi Berra red
    X Blue
 42 X Josh Gibson blue
@@ -368,10 +368,11 @@
 46 X Bottomly orange die cut /25
    X Purple /50
    X Red
+   X Blue
 47 X Ford red /75
    X Blue
 48 X Banks blue
-49 X Mathews ?
+49 X Mathews Blue
 50 X Hack Wilson red /75
    X Blue
 51
@@ -382,6 +383,7 @@
 54 X F. Robinson gold /10
    X blue
 55 X Marichal purple /50
+   X Blue
 56 X Brooks Robinson red /75
    X Blue
 57 X Drysdale red /75
@@ -391,6 +393,7 @@
    X red
 59 X Killebrew blue
 60 X Reese red /75
+   X Blue
 61 X Slaughter red /75
    X Blue
 62 X Arky Vaughan Blue
@@ -419,6 +422,7 @@
    X Red
    X Purple
 76 X Rizzuto red /75
+   X Blue
 77 X Ashburn Blue
 78 X Schmidt blue
 79 X Doby Blue
@@ -522,7 +526,7 @@
 12 X Keeler
 13 X Sisler
    X red /75
-14   Hornsby
+14 X Hornsby
 15 X Chance
    X blue
    X red
@@ -537,9 +541,9 @@
 23 X Foxx
    X red
    X blue
-24   Mell Ott
+24 X Mell Ott
 25 X Dizzy Dean
-26   Maranville
+26 X Maranville
 27 X Terry
    X red
 28 X Dimaggio
@@ -550,11 +554,11 @@
 32 X Roush red
    X base
 33 X Grimes
-34   Huggins
+34 X Huggins
 35 X Stengal base
 36 X Campanella
    X red /75
-37   Stan Musial
+37 X Stan Musial
 38 X Bancroft
    X blue /50
 39 X Marquard red
@@ -588,7 +592,7 @@
    X Blue
 54 X F. Robinson blue /50
 55 X Marichal
-56   Brooks Robinson
+56 X Brooks Robinson
 57 X Drysdale red
    X Base
 58 X Ferrell
@@ -611,7 +615,7 @@
 69 X Carew
 70 X lazzeri
    X red /75
-71   Newhouser
+71 X Newhouser
 72 X seaver red /75
    X base
 73 X Reggie Jackson
@@ -625,7 +629,7 @@
 78 X Schmidt
 79 X larry doby
 80 X Brett
-81   Cepeda
+81 X Cepeda
 82 X Nolan Ryan
 83 X yount
    X blue
